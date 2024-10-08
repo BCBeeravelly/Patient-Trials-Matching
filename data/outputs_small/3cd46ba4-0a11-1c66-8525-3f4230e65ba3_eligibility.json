@@ -1,0 +1,66 @@
+{
+  "eligibleTrials": [
+    {
+      "trialId": "NCT06576297",
+      "studyTitle": "Novel Respiratory Training as Part of Palliative Care for Older Adults With Heart Failure",
+      "eligibilityCriteriaMet": [
+        "Condition (Heart Failure)",
+        "Age",
+        "Gender",
+        "Treatment (Therapy)",
+        "Living Situation",
+        "Medical History (Cardiovascular Event)",
+        "Condition (Valvular Disease)",
+        "Condition (Dementia)",
+        "Condition (COPD, PVD, Anemia)",
+        "Condition (Malignancy)",
+        "Condition (Valvular Heart Disease)",
+        "Medical History (Psychiatric Hospitalization)",
+        "Substance Use (ETOH/Drug Dependency)",
+        "Special Populations",
+        "Consent",
+        "Age (Pediatric)",
+        "Pregnancy",
+        "Legal Status (Prisoners)"
+      ]
+    },
+    {
+      "trialId": "NCT06576323",
+      "studyTitle": "An Intervention Mapping Approach to Closing the Gap in Maternal OUD and Infant NAS Care (SUPPORT)",
+      "eligibilityCriteriaMet": [
+        "Profession (Healthcare Provider)",
+        "Relationship (Biological Mother)",
+        "Age (18 Years and older)",
+        "Sex (All)",
+        "Healthy Volunteers (Accepts Healthy Volunteers)",
+        "Mental Health (Active Suicidal Ideation)"
+      ]
+    },
+    {
+      "trialId": "NCT06576895",
+      "studyTitle": "Nutrition Practice in Critically Ill Adults - an Observational Study",
+      "eligibilityCriteriaMet": [
+        "Age",
+        "Admission Status",
+        "Duration of Stay",
+        "Discharge Status",
+        "Care Type"
+      ]
+    },
+    {
+      "trialId": "NCT06576986",
+      "studyTitle": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy",
+      "eligibilityCriteriaMet": [
+        "Condition",
+        "Age",
+        "Gender",
+        "Condition/Protocol",
+        "Condition/Treatment",
+        "Location",
+        "Consent",
+        "Medication History",
+        "Pregnancy Status"
+      ]
+    }
+  ]
+}

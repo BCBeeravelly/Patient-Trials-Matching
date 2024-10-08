@@ -1,0 +1,18 @@
+{
+  "eligibleTrials": [
+    {
+      "trialId": "NCT06576180",
+      "studyTitle": "Effects of Neoadjuvant Therapy With Carboplatin, Paclitaxel Combined With Anti-PD-1 Drugs on Cognitive Function in Patients With Resectable Head and Neck Squamous Cell Carcinoma",
+      "eligibilityCriteriaMet": [
+        "Diagnosis",
+        "Language",
+        "Health Status",
+        "Medical Condition",
+        "Medical History",
+        "Substance Use",
+        "Treatment Plan",
+        "Medication Use"
+      ]
+    }
+  ]
+}

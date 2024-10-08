@@ -1,0 +1,188 @@
+{
+  "patientId": "2a19ac8c-076b-857f-48f9-5776d28cd7f8",
+  "eligibleTrials": [
+    {
+      "trialId": "NCT06576986",
+      "studyTitle": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy",
+      "eligibilityCriteriaMet": [
+        "Condition",
+        "Age",
+        "Gender",
+        "Condition/Medication",
+        "Treatment",
+        "Location",
+        "Consent",
+        "Medication"
+      ]
+    },
+    {
+      "trialId": "NCT06576700",
+      "studyTitle": "Effect of Procyanidins in Leaky Gut Repairing in IBD",
+      "eligibilityCriteriaMet": [
+        "Diagnosis",
+        "Disease Status",
+        "Age",
+        "Participation Ability",
+        "Infection Status",
+        "Pregnancy Status",
+        "Medication Status"
+      ]
+    },
+    {
+      "trialId": "NCT06577025",
+      "studyTitle": "A Study of Different Sequences of Cilta-cel, Talquetamab in Combination With Daratumumab and Teclistamab in Combination With Daratumumab Following Induction With Daratumumab, Bortezomib, Lenalidomide and Dexamethasone in Participants With Standard-risk Newly Diagnosed Multiple Myeloma",
+      "eligibilityCriteriaMet": [
+        "Diagnosis",
+        "Stage",
+        "Fitness",
+        "Measurable Disease",
+        "Performance Status",
+        "Malignancy",
+        "Neuropathy",
+        "CNS Involvement",
+        "Stroke/Seizure",
+        "Plasma Cell Leukemia",
+        "High-Risk Disease Features",
+        "HIV Status"
+      ]
+    },
+    {
+      "trialId": "NCT06576895",
+      "studyTitle": "Nutrition Practice in Critically Ill Adults - an Observational Study",
+      "eligibilityCriteriaMet": [
+        "Age",
+        "Admission Status",
+        "Duration of Stay",
+        "Discharge Status",
+        "Care Type"
+      ]
+    },
+    {
+      "trialId": "NCT06576986",
+      "studyTitle": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy",
+      "eligibilityCriteriaMet": [
+        "Condition",
+        "Age",
+        "Gender",
+        "Condition/Protocol",
+        "Condition/Treatment",
+        "Location",
+        "Consent",
+        "Medication History",
+        "Pregnancy Status"
+      ]
+    },
+    {
+      "trialId": "NCT06577025",
+      "studyTitle": "A Study of Different Sequences of Cilta-cel, Talquetamab in Combination With Daratumumab and Teclistamab in Combination With Daratumumab Following Induction With Daratumumab, Bortezomib, Lenalidomide and Dexamethasone in Participants With Standard-risk Newly Diagnosed Multiple Myeloma",
+      "eligibilityCriteriaMet": [
+        "Diagnosis",
+        "Stage",
+        "Fitness",
+        "Measurable Disease",
+        "Performance Status",
+        "Malignancy",
+        "Neuropathy",
+        "CNS Involvement",
+        "Stroke/Seizure",
+        "Disease Features",
+        "HIV Status"
+      ]
+    },
+    {
+      "trialId": "NCT06576895",
+      "studyTitle": "Nutrition Practice in Critically Ill Adults - an Observational Study",
+      "eligibilityCriteriaMet": [
+        "Age",
+        "Admission Status",
+        "Duration of Stay",
+        "Discharge Status",
+        "Care Type"
+      ]
+    },
+    {
+      "trialId": "NCT06576986",
+      "studyTitle": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy",
+      "eligibilityCriteriaMet": [
+        "Condition",
+        "Age",
+        "Gender",
+        "Condition/Protocol",
+        "Treatment",
+        "Location",
+        "Consent",
+        "Medication",
+        "Pregnancy/Breastfeeding"
+      ]
+    },
+    {
+      "trialId": "NCT06576700",
+      "studyTitle": "Effect of Procyanidins in Leaky Gut Repairing in IBD",
+      "eligibilityCriteriaMet": [
+        "Diagnosis",
+        "Disease Status",
+        "Age",
+        "Participation Ability",
+        "Infection Status",
+        "Pregnancy Status",
+        "Medication Status"
+      ]
+    },
+    {
+      "trialId": "NCT06577025",
+      "studyTitle": "A Study of Different Sequences of Cilta-cel, Talquetamab in Combination With Daratumumab and Teclistamab in Combination With Daratumumab Following Induction With Daratumumab, Bortezomib, Lenalidomide and Dexamethasone in Participants With Standard-risk Newly Diagnosed Multiple Myeloma",
+      "eligibilityCriteriaMet": [
+        "Diagnosis",
+        "Stage",
+        "Fitness",
+        "Measurable Disease",
+        "Performance Status",
+        "Malignancy",
+        "Neuropathy",
+        "CNS Involvement",
+        "Stroke/Seizure",
+        "Plasma Cell Leukemia",
+        "High-Risk Disease Features",
+        "HIV Status"
+      ]
+    },
+    {
+      "trialId": "NCT06576323",
+      "studyTitle": "An Intervention Mapping Approach to Closing the Gap in Maternal OUD and Infant NAS Care (SUPPORT)",
+      "eligibilityCriteriaMet": [
+        "Profession (Healthcare Provider)",
+        "Relationship (Biological Mother)",
+        "Mental Health (Active Suicidal Ideation)",
+        "Age (18 Years and older)",
+        "Sex (All)",
+        "Healthy Volunteers (Accepts Healthy Volunteers)"
+      ]
+    },
+    {
+      "trialId": "NCT06576895",
+      "studyTitle": "Nutrition Practice in Critically Ill Adults - an Observational Study",
+      "eligibilityCriteriaMet": [
+        "Age",
+        "Admission Status",
+        "Duration of Stay",
+        "Discharge Status",
+        "Care Type"
+      ]
+    },
+    {
+      "trialId": "NCT06576986",
+      "studyTitle": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy",
+      "eligibilityCriteriaMet": [
+        "Condition",
+        "Age",
+        "Gender",
+        "Condition/Protocol",
+        "Condition/Treatment",
+        "Location",
+        "Consent",
+        "Medication History",
+        "Pregnancy Status"
+      ]
+    }
+  ]
+}
