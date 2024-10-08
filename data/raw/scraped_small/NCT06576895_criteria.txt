@@ -1,0 +1,26 @@
+Study Title: Nutrition Practice in Critically Ill Adults - an Observational Study
+Inclusion/Exclusion Criteria:
+Description
+
+Inclusion Criteria:
+Age 18 years or older
+Admitted to ICU after 00:00 on the date of study commencement
+Remain in ICU for ≥ 48 hours
+
+
+Exclusion Criteria:
+Patients who have been deemed ready to be discharged by the treating team within 48 hours of ICU admission but have not been able to be discharged within 48 hours of ICU admission for logistical reasons (e.g., due to bed unavailability, inability to return home)
+Patients who have been admitted for palliative care or organ donation or made palliative within 48 hours of ICU admission
+
+Study Population
+In a 7 day study period, all adult patients present in the ICU who meet all of the inclusion criteria and no exclusion criteria will be included.
+
+Other Criteria:
+Ages Eligible for Study
+18 Years and older (Adult,  Older Adult )
+Sexes Eligible for Study
+All
+Accepts Healthy Volunteers
+No
+Sampling Method
+Non-Probability Sample

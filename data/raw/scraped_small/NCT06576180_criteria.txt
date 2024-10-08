@@ -1,0 +1,29 @@
+Study Title: Effects of Neoadjuvant Therapy With Carboplatin, Paclitaxel Combined With Anti-PD-1 Drugs on Cognitive Function in Patients With Resectable Head and Neck Squamous Cell Carcinoma
+Inclusion/Exclusion Criteria:
+Description
+
+Inclusion Criteria:
+1: The patient was diagnosed with head and neck squamous cell carcinoma (stage I-IVA), without treatment, and planned to undergo only surgical treatment or surgical treatment + chemotherapy and immunotherapy.
+2: Can speak Chinese and have certain reading and writing skills
+3: Healthy group: Dental inpatients with non-oral cancer, no history of neurological diseases, and no previous history of malignant tumors
+
+
+Exclusion Criteria:
+1: Brain tumor, brain injury, or stroke at baseline or during follow-up
+2: A history of stroke or a medical condition that puts you at high risk for future dementia or recurrence
+3: Active mental illness or active narcotic drug use, including using alcohol more than 4 times per day or more than 4 times per week
+4: Neurocognitive diseases that affect cognitive function, such as Parkinson's disease or Alzheimer's disease
+5: History of drug-associated encephalopathy or brain infection
+6: Patients who change their treatment plan during treatment
+7: Patients who are currently taking or have taken antidepressants
+
+Study Population
+The patients were diagnosed with head and neck squamous cell carcinoma (stages I-IV) and did not receive treatment. They planned to receive only surgical treatment or combined surgical treatment + chemotherapy and immunotherapy. They were divided into two groups, and the participating groups were selected according to the inclusion criteria.
+
+Other Criteria:
+Ages Eligible for Study
+18 Years to 80 Years (Adult,  Older Adult )
+Sexes Eligible for Study
+All
+Sampling Method
+Probability Sample

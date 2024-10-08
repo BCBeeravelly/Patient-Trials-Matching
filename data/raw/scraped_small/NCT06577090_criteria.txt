@@ -1,0 +1,70 @@
+Study Title: Study to Evaluate the Effect on Obesity of Once Weekly Nimacimab Injection and Once Weekly Nimacimab Injection Co-administered With Semaglutide Injection Versus Placebo
+Inclusion/Exclusion Criteria:
+Description
+
+Inclusion Criteria:
+Capable of giving signed informed consent which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.
+Participants must be at least 18 years of age or the legal age of consent in the jurisdiction in which the study is taking place to 65 years, inclusive, at the time of signing the informed consent.
+Male, female, and/or nonbinary participants.
+Have Body Mass Index (BMI) of
+≥ 30 kg/m2 to ≤ 45 kg/m2 OR
+≥ 27 kg/m2 and < 30 kg/m2 with clinically confirmed diagnosis of at least 1 of the following weight-related co-morbidities:
+i. dyslipidemia: on lipid-lowering medication or having low-density lipoprotein (LDL) ≥ 160 mg/dL (4.1 mmol/L) or triglycerides ≥ 150 mg/dL (1.7 mmol/L) or high-density lipoprotein (HDL) < 40 mg/dL (1.0 mmol/L) for men or HDL < 50 mg/dL (1.3 mmol/L) for women at screening.
+ii. cardiovascular disease: (for example, ischemic cardiovascular disease, New York Heart Association [NYHA] Functional Classification Class I-II heart failure).
+iii. obstructive sleep apnea syndrome (Salzano 2021).
+iv. controlled arterial hypertension with systolic blood pressure (SBP) < 150 mmHg or diastolic blood pressure (DBP) < 90 mmHg.
+Have an HbA1c < 48 mmol/mol (6.5%) at screening.
+Have had a stable body weight for the 3 months prior to screening (no more than 5% body weight gain and/or loss).
+If on cardiovascular, anti-hypertensive, or/and anti-depressant medications, must be controlled on stable dose for 3 months prior to screening.
+If on hormone replacement therapy, must be on a stable dose for at least 3 months prior to screening, including use of thyroxine.
+Females of childbearing potential must agree:
+to use an approved method of contraception from screening throughout the study and for at least 90 days after the last dose of study drug.
+to not donate ova from screening throughout the study and for at least 90 days after the last dose of study drug.
+have a negative pregnancy test at screening and Day 0.
+Male participants who are (hetero) sexually active must agree that he and his partner will each use at least 1 of the listed contraceptive methods in Section 11.4 Appendix 4: Contraceptive Guidance and Collection of Pregnancy Information
+Agreement in male participants to not donate sperm from screening throughout the study and for at least 90 days after the last dose of study drug.
+
+
+Exclusion Criteria:
+Have any prior diagnosis of type 1 or type 2 diabetes mellitus (T1DM or T2DM, or rare forms of diabetes mellitus).
+Have at least 1 laboratory value suggestive of diabetes during screening, including 1 or more of HbA1c ≥ 6.5% (48 mmol/mol), fasting serum glucose ≥ 126 mg/dL (7.0 mmol/L), or random glucose ≥ 200 mg/dL (11.1 mmol/L).
+Have a prior or planned surgical treatment for obesity (excluding liposuction or abdominoplasty, if performed > 1 year prior to screening).
+Have obesity induced by other disorders (for example, Cushing's syndrome) or diagnosed monogenetic or syndromic forms of obesity (for example, Melanocortin 4 Receptor deficiency or Prader-Willi Syndrome) or use of systemic corticosteroids or uncontrolled hypothyroidism. (Hypothyroidism on stable treatment is allowed).
+Have or plan to have endoscopic and/or device-based therapy for obesity or have had device removal within the last 6 months prior to screening including but not limited to the following:
+Mucosal ablation,
+Gastric artery embolization,
+Intragastric balloon, OR
+Duodenal-jejunal endoluminal liner
+Surgery of any kind within 3 months prior to Day 0 or determined by the Investigator to be clinically relevant.
+Renal impairment as estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m2, calculated at screening using the recommended method for estimating eGFR in adults from the National Kidney Foundation Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI 2021) equation (Charles 2024).
+Acute kidney injury or dialysis within the last 3 months prior to the screening visit
+Known malignancy that is progressing or has required active treatment within the past 3 years prior to screening. Any exceptions must be approved by the Medical Monitor.
+Note: Participants with basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma in situ (e.g., breast carcinoma, cervical cancer in situ) that have undergone potentially curative therapy are not excluded.
+Positive results at screening that indicate an active virological infection at screening for human immunodeficiency virus (HIV), hepatitis B surface antigen (HBsAg) or hepatitis C virus.
+Previous organ or bone marrow transplant.
+History and/or confirmed seizure disorder; reports febrile and/or idiopathic seizures occurring within the past 2 years.
+Unstable cardiovascular disease as determined by the Investigator or medical history of myocardial infarction or arterial thromboembolic events within 3 months prior to enrollment or severe or unstable angina, NYHA Class III or IV disease, or a QTc interval >480 msec.
+History or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the participants' participation for the full duration of the study, or is not in the best interest of the participants to participate in the opinion of the Investigator.
+Have history of any of the following:
+Major Depressive Disorder (MDD) within the last 2 years prior to screening
+A lifetime history of suicide attempts
+Other severe psychiatric disorder(s) (e.g., schizophrenia, bipolar disorder, etc.)
+Have a Patient Health Questionnaire-9 (PHQ-9) score ≥ 15 at screening and/or Day 0 (Baseline).
+At Day 0 (Baseline) have any suicidal ideation of type 4 or 5 on the Columbia Suicide Severity Rating Scale (C-SSRS) in the previous month or any suicidal behavior in the previous month.
+History or presence of alcohol or drug abuse (including recreational marijuana use) within the 1 year prior to Day 0 (Baseline).
+Prior exposure to Nimacimab Injection or semaglutide injection or have an allergy to active or inactive components of Nimacimab Injection or semaglutide injection or any compound with GLP-1 agonists.
+Female participants who are pregnant or breastfeeding or expecting to conceive children within the projected duration of the study.
+Aspartate aminotransferase (AST) or alanine transaminase (ALT) > 3 × upper limit of normal (ULN) at screening. One repeat test may be allowed within 7 days of the receiving the result, at the discretion of the Investigator.
+Absolute neutrophil count ≤ 1.5 × 109/L.
+Platelets ≤ 120 × 109/L.
+Hemoglobin (Hgb) < 13.5 g/dL in males and < 12 g/dL in females.
+Currently or have participated in a study of an investigational product or used an investigational device within 12 weeks and/or 5 times the half-life of the investigational product prior to the (Day 0) first dose of study intervention.
+
+
+Other Criteria:
+Ages Eligible for Study
+18 Years to 65 Years (Adult,  Older Adult )
+Sexes Eligible for Study
+All
+Accepts Healthy Volunteers
+No

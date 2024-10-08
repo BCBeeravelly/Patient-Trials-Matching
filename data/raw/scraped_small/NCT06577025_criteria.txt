@@ -1,0 +1,29 @@
+Study Title: A Study of Different Sequences of Cilta-cel, Talquetamab in Combination With Daratumumab and Teclistamab in Combination With Daratumumab Following Induction With Daratumumab, Bortezomib, Lenalidomide and Dexamethasone in Participants With Standard-risk Newly Diagnosed Multiple Myeloma
+Inclusion/Exclusion Criteria:
+Description
+
+Inclusion Criteria:
+Participants with documented new diagnosis of multiple myeloma (MM) according to international myeloma working group (IMWG) diagnostic criteria
+Participants must have standard-risk MM (stage I and II) based on revised International Staging System (R-ISS)
+Participants must be considered fit (score equals to [=] 0) or intermediate-fit (score=1) according to IMWG Frailty Index assessment (based on the Charlson Comorbidity Index, the Katz Activity of Daily Living and the Lawson Instrumental Activities of Daily Living)
+Measurable disease defined as: Serum monoclonal paraprotein (M-protein) level greater than or equal to (>=) 1.0 gram per deciliter (g/dL) or urine M-protein level >= 200 milligrams per 24 hours (mg/24 hours); Light chain MM without measurable disease in the serum or the urine: Serum immunoglobulin free light chain >=10 milligrams per deciliter (mg/dL) and abnormal serum immunoglobulin kappa lambda free light chain ratio
+Eastern Cooperative Oncology Group (ECOG) performance status grade of 0 or 1
+
+
+Exclusion Criteria:
+Any ongoing myelodysplastic syndrome or B-cell malignancy (other than MM). Any history of malignancy, other than MM, which is considered at high risk of recurrence requiring systemic therapy
+Peripheral neuropathy or neuropathic pain of Grade >= 2, as defined by National Cancer Institute (NCI)-Common Terminology Criteria for Adverse Events (CTCAE) version 5.0
+Known active or prior history of central nervous system (CNS) involvement or exhibits clinical signs of meningeal involvement of MM
+Stroke or seizure within 6 months of signing the informed consent form (ICF)
+Plasma cell leukemia at the time of screening (>= 5 percent [%] circulating plasma cells in peripheral blood smears), Waldenstrom macroglobulinemia, polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, and skin changes(POEMS) syndrome, or primary amyloid light chain amyloidosis with associated organ dysfunction
+Presence of high-risk disease features: (a) Cytogenetic high risk lesions by MM fluorescence in situ hybridization (FISH) including deletion 17p (del[17p])/, t(4;14), t(14;16), amplification 1q (amp[1q21]) (>= 4 copies); (b) Presence of 1 or more extramedullary plasmacytomas
+Seropositive for human immunodeficiency virus (HIV)
+
+
+Other Criteria:
+Ages Eligible for Study
+18 Years to 70 Years (Adult,  Older Adult )
+Sexes Eligible for Study
+All
+Accepts Healthy Volunteers
+No

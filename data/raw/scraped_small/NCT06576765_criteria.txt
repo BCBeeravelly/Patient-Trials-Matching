@@ -1,0 +1,48 @@
+Study Title: Study to Investigate the Effect of Hepatic Impairment on the Pharmacokinetics, Safety, and Tolerability of AZD0780
+Inclusion/Exclusion Criteria:
+Description
+
+Inclusion Criteria:
+Participant must be 18 to 85 years of age, inclusive at screening
+For participants with normal hepatic function:
+Participant must be medically healthy with no clinically significant medical history, physical examination, clinical laboratory profiles, vital signs, or 12-lead ECGs, as deemed by the investigator at screening and Day -1.
+For participants with hepatic impairment:
+Participant must have a diagnosis of chronic (≥ 6 months) and stable hepatic impairment at screening and Day -1.
+Supporting documents confirming the participant's hepatic impairment must be available
+Participants must be stable on a concomitant medication and/or treatment regimen. Minor changes in dosage can be accepted at the discretion of the investigator.
+Male participants:
+Males must be surgically sterile or using, in conjunction with their female partner, a highly effective method of contraception for the duration of the study (from the time of study intervention administration) until 3 months after discharge to prevent pregnancy in a partner.
+Female participants of non-childbearing potential:
+Female participants must not be pregnant and must have a negative pregnancy test at screening and check-in, must not be lactating, and must not be of childbearing potential.
+
+
+Exclusion Criteria:
+For participants with normal hepatic function:
+Any clinically significant disease or disorder (eg, cardiovascular, pulmonary, gastrointestinal, liver, renal, neurological, musculoskeletal including bone fractures, endocrine including adrenal insufficiency, metabolic, malignant, psychiatric, major physical impairment)
+Use of any prescription or non-prescription drugs within 7 days (or 14 days if the drug is a potential enzyme inducer) or 5 half-lives (whichever is longer) before study intervention, unless, in the opinion of the investigator and sponsor, the medication will not interfere with the study.
+For participants with hepatic impairment:
+Presence of unstable medical (eg, diabetes) or psychological conditions, or any evidence of additional severe or uncontrolled systemic disease (eg, currently unstable or uncompensated renal, cardiovascular, or respiratory disease) or laboratory finding which, in the opinion of the investigator, would compromise the participant's safety or successful participation in this study.
+Participant has evidence of hepatorenal syndrome or creatinine clearance < 60 mL/minute as calculated using the Cockcroft-Gault equation.
+Blood dyscrasias with increased risk of bleeding including idiopathic thrombocytopenic purpura and thrombotic thrombocytopenic purpura or symptoms of increased risk of bleeding (frequent bleeding gums or nose bleeds) at screening or Day -1.
+Fluctuating or rapidly deteriorating hepatic function, as indicated by strongly varying or worsening of clinical and/or laboratory signs of hepatic impairment within the screening period.
+Presence of a hepatocellular carcinoma or acute liver disease caused by an infection or drug toxicity.
+Hepatic impairment due to non-liver disease (eg, right HF).
+Biliary obstruction or other causes of hepatic impairment not related to parenchymal disorder and/or disease of the liver.
+Clinically relevant hepatic encephalopathy (Grade 2 or more) at screening or Day -1.
+Current functioning organ transplant or anticipated to receive organ transplant within 2 months of screening or Day -1.
+Has required new medication for hepatic encephalopathy within the 3 months prior to Day -1.
+Use of concurrent medication which affects creatinine clearance (eg, cephalosporin antibiotics, ascorbic acid, trimethoprim, cimetidine, or quinine) within 7 days of Day -1.
+Current or previous treatment with drugs for reduction or inhibition of PCSK9 (eg, evolocumab, alirocumab, or inclisiran).
+Use of moderate/strong inhibitors or inducers of CYP3A4/5.
+Unable to refrain from potassium binders, phosphate binders (eg, aluminium hydroxide and calcium carbonate), cholestyramine/colestipol, and ranitidine/nizatidine within 10 hours before and 10 hours after study intervention.
+Receiving or has received within 14 days of screening, medication that contains a black box warning for significant QT prolongation. A list of prohibited medications can be found in the protocol.
+Unable to refrain from lactulose within 10 hours before and 10 hours after study intervention.
+
+
+Other Criteria:
+Ages Eligible for Study
+18 Years to 85 Years (Adult,  Older Adult )
+Sexes Eligible for Study
+All
+Accepts Healthy Volunteers
+Yes
