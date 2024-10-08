@@ -1,0 +1,5166 @@
+{
+    "Patient ID": "2a19ac8c-076b-857f-48f9-5776d28cd7f8",
+    "Given Name": "Loraine318 Mariette443",
+    "Gender": "F",
+    "Birth Time": "19560713104442",
+    "Age": 68,
+    "Race": "white",
+    "Ethnic Group": "non-hispanic",
+    "Language": "en-US",
+    "Medications": [
+        {
+            "Start": "2013-10-04T10:44:42Z",
+            "Stop": "2014-10-10T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "372 days",
+            "Last Usage": "3650 days ago"
+        },
+        {
+            "Start": "2013-10-04T10:44:42Z",
+            "Stop": "2014-10-10T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "372 days",
+            "Last Usage": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": "2014-11-21T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "43 days",
+            "Last Usage": "3608 days ago"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": "2014-11-21T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "43 days",
+            "Last Usage": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": "2015-10-16T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "330 days",
+            "Last Usage": "3279 days ago"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": "2015-10-16T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "330 days",
+            "Last Usage": "3279 days ago"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": "2016-06-17T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "246 days",
+            "Last Usage": "3034 days ago"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": "2016-06-17T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "246 days",
+            "Last Usage": "3034 days ago"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": "2016-06-24T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "3027 days ago"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": "2016-06-24T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "3027 days ago"
+        },
+        {
+            "Start": "2016-06-24T10:44:42Z",
+            "Stop": "2016-07-15T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "22 days",
+            "Last Usage": "3006 days ago"
+        },
+        {
+            "Start": "2016-06-24T10:44:42Z",
+            "Stop": "2016-07-15T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "22 days",
+            "Last Usage": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": "2016-07-22T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2999 days ago"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": "2016-07-22T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2999 days ago"
+        },
+        {
+            "Start": "2016-07-22T10:44:42Z",
+            "Stop": "2016-10-21T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "92 days",
+            "Last Usage": "2908 days ago"
+        },
+        {
+            "Start": "2016-07-22T10:44:42Z",
+            "Stop": "2016-10-21T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "92 days",
+            "Last Usage": "2908 days ago"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": "2017-01-13T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "85 days",
+            "Last Usage": "2824 days ago"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": "2017-01-13T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "85 days",
+            "Last Usage": "2824 days ago"
+        },
+        {
+            "Start": "2016-11-04T14:05:30Z",
+            "Stop": "2016-11-04T14:05:30Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "2893 days ago"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": "2017-10-27T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "288 days",
+            "Last Usage": "2537 days ago"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": "2017-10-27T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "288 days",
+            "Last Usage": "2537 days ago"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": "2017-11-24T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "29 days",
+            "Last Usage": "2509 days ago"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": "2017-11-24T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "29 days",
+            "Last Usage": "2509 days ago"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": "2017-12-01T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2502 days ago"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": "2017-12-01T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2502 days ago"
+        },
+        {
+            "Start": "2017-12-01T10:44:42Z",
+            "Stop": "2017-12-08T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2495 days ago"
+        },
+        {
+            "Start": "2017-12-01T10:44:42Z",
+            "Stop": "2017-12-08T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2495 days ago"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": "2017-12-15T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": "2017-12-15T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T10:44:42Z",
+            "Stop": "2017-12-22T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-15T10:44:42Z",
+            "Stop": "2017-12-22T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": "2017-12-29T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": "2017-12-29T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-29T10:44:42Z",
+            "Stop": "2018-01-05T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2467 days ago"
+        },
+        {
+            "Start": "2017-12-29T10:44:42Z",
+            "Stop": "2018-01-05T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2467 days ago"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": "2018-01-12T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2460 days ago"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": "2018-01-12T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2460 days ago"
+        },
+        {
+            "Start": "2018-01-12T10:44:42Z",
+            "Stop": "2018-01-19T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2453 days ago"
+        },
+        {
+            "Start": "2018-01-12T10:44:42Z",
+            "Stop": "2018-01-19T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "8 days",
+            "Last Usage": "2453 days ago"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": "2018-02-09T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "22 days",
+            "Last Usage": "2432 days ago"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": "2018-02-09T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "22 days",
+            "Last Usage": "2432 days ago"
+        },
+        {
+            "Start": "2018-01-26T13:31:27Z",
+            "Stop": "2018-01-26T13:31:27Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "2445 days ago"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": "2018-11-02T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "267 days",
+            "Last Usage": "2166 days ago"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": "2018-11-02T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "267 days",
+            "Last Usage": "2166 days ago"
+        },
+        {
+            "Start": "2018-02-23T13:02:19Z",
+            "Stop": "2018-02-23T13:02:19Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "2418 days ago"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": "2019-02-01T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "92 days",
+            "Last Usage": "2075 days ago"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": "2019-02-01T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "92 days",
+            "Last Usage": "2075 days ago"
+        },
+        {
+            "Start": "2018-12-25T11:13:14Z",
+            "Stop": "2019-01-19T11:13:14Z",
+            "Description": "Acetaminophen 325 MG Oral Tablet",
+            "Duration of Usage": "26 days",
+            "Last Usage": "2088 days ago"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": "2019-09-27T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "239 days",
+            "Last Usage": "1837 days ago"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": "2019-09-27T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "239 days",
+            "Last Usage": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": "2019-11-08T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "43 days",
+            "Last Usage": "1795 days ago"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": "2019-11-08T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "43 days",
+            "Last Usage": "1795 days ago"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": "2020-11-13T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "372 days",
+            "Last Usage": "1424 days ago"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": "2020-11-13T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "372 days",
+            "Last Usage": "1424 days ago"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": "2021-10-15T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "337 days",
+            "Last Usage": "1088 days ago"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": "2021-10-15T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "337 days",
+            "Last Usage": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": "2021-11-19T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "36 days",
+            "Last Usage": "1053 days ago"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": "2021-11-19T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "36 days",
+            "Last Usage": "1053 days ago"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": "2022-07-15T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "239 days",
+            "Last Usage": "815 days ago"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": "2022-07-15T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "239 days",
+            "Last Usage": "815 days ago"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": "2022-10-14T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "92 days",
+            "Last Usage": "724 days ago"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": "2022-10-14T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "92 days",
+            "Last Usage": "724 days ago"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": "2022-11-25T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "43 days",
+            "Last Usage": "682 days ago"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": "2022-11-25T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "43 days",
+            "Last Usage": "682 days ago"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": "2023-09-08T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "288 days",
+            "Last Usage": "395 days ago"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": "2023-09-08T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "288 days",
+            "Last Usage": "395 days ago"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": "2023-12-01T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "85 days",
+            "Last Usage": "311 days ago"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": "2023-12-01T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "85 days",
+            "Last Usage": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": "2024-02-02T10:44:42Z",
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": "64 days",
+            "Last Usage": "248 days ago"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": "2024-02-02T10:44:42Z",
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": "64 days",
+            "Last Usage": "248 days ago"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+            "Duration of Usage": null,
+            "Last Usage": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "lisinopril 10 MG Oral Tablet",
+            "Duration of Usage": null,
+            "Last Usage": "Currently used"
+        },
+        {
+            "Start": "2024-02-16T13:42:51Z",
+            "Stop": "2024-02-16T13:42:51Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "233 days ago"
+        }
+    ],
+    "Diagnostic Results": [
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-10-10T12:05:28Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-10-10T12:40:18Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-10-10T13:19:10Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-21T11:48:36Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-21T12:16:53Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-21T12:54:01Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-10-16T11:57:13Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-10-16T12:30:06Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-17T11:53:43Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-17T12:28:12Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-17T13:11:44Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-07-15T12:24:05Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-07-15T13:01:14Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-07-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-07-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-10-21T12:07:17Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-10-21T12:46:41Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T12:08:29Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T12:43:48Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T13:23:51Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T14:00:27Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-10-27T11:59:13Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-11-24T11:56:40Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-11-24T12:26:14Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-11-24T13:04:20Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-08T12:08:17Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-08T12:50:53Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-08T13:30:32Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-08T14:09:31Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-22T12:02:51Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-22T12:34:41Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-22T13:10:53Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-22T13:32:09Z",
+            "Stop": null,
+            "Description": "PHQ-9 quick depression assessment panel [Reported.PHQ]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-29T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-29T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-05T11:51:18Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-05T12:34:09Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-12T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-12T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-19T12:04:50Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-19T12:40:09Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-02-09T12:14:02Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-02-09T12:49:32Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-11-02T11:41:37Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-11-02T12:16:16Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-11-02T12:53:49Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-02-01T12:07:26Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-09-27T11:44:41Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-09-27T12:15:18Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-09-27T12:50:56Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-11-08T12:13:10Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-11-13T12:18:40Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-11-13T13:00:50Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T11:48:02Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T12:26:54Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T12:54:06Z",
+            "Stop": null,
+            "Description": "PHQ-9 quick depression assessment panel [Reported.PHQ]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T13:36:33Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-11-19T12:01:52Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-11-19T12:42:03Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-11-19T13:21:20Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T11:55:07Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T12:32:03Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T13:06:51Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T12:02:09Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T12:36:53Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T13:20:29Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T13:55:11Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-11-25T12:15:36Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-11-25T12:52:29Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-11-25T13:33:53Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-09-08T12:06:29Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-09-08T12:40:03Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-01T11:53:20Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-01T12:26:15Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-01T13:02:51Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T12:09:54Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T12:43:37Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ],
+    "Problems": [
+        {
+            "Start": "1974-09-06T11:17:46Z",
+            "Stop": null,
+            "Description": "Received higher education (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1983-05-31T10:44:42Z",
+            "Stop": null,
+            "Description": "Past pregnancy history of miscarriage (situation)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1987-09-25T12:08:45Z",
+            "Stop": "2015-10-16T11:17:13Z",
+            "Description": "Victim of intimate partner abuse (finding)",
+            "Duration": "10248 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "1996-07-19T11:43:54Z",
+            "Stop": null,
+            "Description": "Social isolation (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1998-07-31T10:44:42Z",
+            "Stop": null,
+            "Description": "Prediabetes",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1998-07-31T10:44:42Z",
+            "Stop": null,
+            "Description": "Anemia (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2002-08-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index 30+ - obesity (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2004-08-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Essential hypertension (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2006-08-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Chronic kidney disease stage 1 (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2006-08-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Disorder of kidney due to diabetes mellitus (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2009-09-11T11:22:33Z",
+            "Stop": "2015-10-16T11:17:13Z",
+            "Description": "Stress (finding)",
+            "Duration": "2226 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "2011-09-23T10:44:42Z",
+            "Stop": null,
+            "Description": "Metabolic syndrome X (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2012-09-28T11:35:55Z",
+            "Stop": "2016-06-17T11:32:34Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "1358 days",
+            "Last": "3034 days ago"
+        },
+        {
+            "Start": "2013-08-02T10:44:42Z",
+            "Stop": "2014-10-10T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "435 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T11:27:02Z",
+            "Stop": "2018-02-09T11:34:34Z",
+            "Description": "Limited social contact (finding)",
+            "Duration": "1219 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": "2014-11-21T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T12:54:01Z",
+            "Stop": "2014-12-05T16:21:56Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "15 days",
+            "Last": "3593 days ago"
+        },
+        {
+            "Start": "2014-12-05T13:24:31Z",
+            "Stop": "2014-12-05T15:07:04Z",
+            "Description": "Gingival disease (disorder)",
+            "Duration": "1 days",
+            "Last": "3593 days ago"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": "2016-06-24T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "253 days",
+            "Last": "3027 days ago"
+        },
+        {
+            "Start": "2016-06-17T11:32:34Z",
+            "Stop": "2016-10-21T11:27:52Z",
+            "Description": "Part-time employment (finding)",
+            "Duration": "126 days",
+            "Last": "2908 days ago"
+        },
+        {
+            "Start": "2016-06-17T11:32:34Z",
+            "Stop": "2016-07-15T11:41:22Z",
+            "Description": "Stress (finding)",
+            "Duration": "29 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-06-17T11:32:34Z",
+            "Stop": "2016-07-15T11:41:22Z",
+            "Description": "Victim of intimate partner abuse (finding)",
+            "Duration": "29 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-01T10:44:42Z",
+            "Stop": "2016-07-24T10:44:42Z",
+            "Description": "Viral sinusitis (disorder)",
+            "Duration": "24 days",
+            "Last": "2997 days ago"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": "2016-07-15T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-22T10:44:42Z",
+            "Stop": "2017-12-08T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "505 days",
+            "Last": "2495 days ago"
+        },
+        {
+            "Start": "2016-10-21T11:27:52Z",
+            "Stop": "2017-10-27T11:17:24Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "371 days",
+            "Last": "2537 days ago"
+        },
+        {
+            "Start": "2016-10-21T12:46:41Z",
+            "Stop": "2016-11-04T14:05:30Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "15 days",
+            "Last": "2893 days ago"
+        },
+        {
+            "Start": "2017-01-13T11:39:58Z",
+            "Stop": "2017-11-24T11:26:43Z",
+            "Description": "Stress (finding)",
+            "Duration": "315 days",
+            "Last": "2509 days ago"
+        },
+        {
+            "Start": "2017-01-13T14:00:27Z",
+            "Stop": "2017-01-27T13:07:45Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "14 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-10-27T11:17:24Z",
+            "Stop": "2017-11-24T11:26:43Z",
+            "Description": "Unemployed (finding)",
+            "Duration": "29 days",
+            "Last": "2509 days ago"
+        },
+        {
+            "Start": "2017-11-24T11:26:43Z",
+            "Stop": "2017-12-22T11:33:33Z",
+            "Description": "Not in labor force (finding)",
+            "Duration": "29 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-08T12:50:53Z",
+            "Stop": "2018-01-05T11:16:02Z",
+            "Description": "Victim of intimate partner abuse (finding)",
+            "Duration": "28 days",
+            "Last": "2467 days ago"
+        },
+        {
+            "Start": "2017-12-08T14:09:31Z",
+            "Stop": "2018-01-26T13:31:27Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "49 days",
+            "Last": "2445 days ago"
+        },
+        {
+            "Start": "2017-12-15T10:44:42Z",
+            "Stop": "2017-12-15T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": "2017-12-22T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T11:33:33Z",
+            "Stop": "2018-01-19T11:44:24Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "29 days",
+            "Last": "2453 days ago"
+        },
+        {
+            "Start": "2017-12-22T11:33:33Z",
+            "Stop": "2018-01-05T11:16:02Z",
+            "Description": "Stress (finding)",
+            "Duration": "14 days",
+            "Last": "2467 days ago"
+        },
+        {
+            "Start": "2017-12-29T10:44:42Z",
+            "Stop": "2017-12-29T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": "2018-02-09T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "36 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-01-19T11:44:24Z",
+            "Stop": "2018-02-09T11:34:34Z",
+            "Description": "Part-time employment (finding)",
+            "Duration": "21 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-01-19T11:44:24Z",
+            "Stop": "2019-02-01T11:35:10Z",
+            "Description": "Stress (finding)",
+            "Duration": "378 days",
+            "Last": "2075 days ago"
+        },
+        {
+            "Start": "2018-02-02T10:44:42Z",
+            "Stop": "2018-02-23T10:44:42Z",
+            "Description": "Viral sinusitis (disorder)",
+            "Duration": "22 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-09T11:34:34Z",
+            "Stop": "2018-11-02T11:21:50Z",
+            "Description": "Not in labor force (finding)",
+            "Duration": "266 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-02-09T12:49:32Z",
+            "Stop": "2018-02-23T13:02:19Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "15 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": "2018-11-02T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T11:21:50Z",
+            "Stop": "2020-11-13T11:42:01Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "743 days",
+            "Last": "1424 days ago"
+        },
+        {
+            "Start": "2018-11-02T11:21:50Z",
+            "Stop": "2024-02-02T11:41:44Z",
+            "Description": "Limited social contact (finding)",
+            "Duration": "1919 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2018-12-25T10:44:42Z",
+            "Stop": "2019-01-19T11:13:14Z",
+            "Description": "Laceration - injury (disorder)",
+            "Duration": "26 days",
+            "Last": "2088 days ago"
+        },
+        {
+            "Start": "2018-12-25T10:44:42Z",
+            "Stop": "2019-01-19T11:13:14Z",
+            "Description": "Laceration of thigh",
+            "Duration": "26 days",
+            "Last": "2088 days ago"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": "2019-09-27T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "239 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T11:26:14Z",
+            "Stop": "2021-10-15T11:27:30Z",
+            "Description": "Stress (finding)",
+            "Duration": "750 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2019-10-11T12:46:09Z",
+            "Stop": "2019-10-11T13:08:57Z",
+            "Description": "Primary dental caries (disorder)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": "2019-11-08T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "1795 days ago"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": "2020-11-13T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "1424 days ago"
+        },
+        {
+            "Start": "2020-11-13T11:42:01Z",
+            "Stop": "2021-10-15T11:27:30Z",
+            "Description": "Unemployed (finding)",
+            "Duration": "336 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": "2021-10-15T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Chronic kidney disease stage 2 (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Microalbuminuria due to type 2 diabetes mellitus (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T11:27:30Z",
+            "Stop": "2022-07-15T11:25:40Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "273 days",
+            "Last": "815 days ago"
+        },
+        {
+            "Start": "2021-10-15T11:27:30Z",
+            "Stop": "2021-11-19T11:43:25Z",
+            "Description": "Victim of intimate partner abuse (finding)",
+            "Duration": "36 days",
+            "Last": "1053 days ago"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": "2023-09-08T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "659 days",
+            "Last": "395 days ago"
+        },
+        {
+            "Start": "2021-11-19T11:43:25Z",
+            "Stop": "2023-12-01T11:37:35Z",
+            "Description": "Stress (finding)",
+            "Duration": "742 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2022-07-15T11:25:40Z",
+            "Stop": "2022-10-14T11:41:24Z",
+            "Description": "Not in labor force (finding)",
+            "Duration": "92 days",
+            "Last": "724 days ago"
+        },
+        {
+            "Start": "2022-07-15T11:25:40Z",
+            "Stop": null,
+            "Description": "Has a criminal record (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-10-14T11:41:24Z",
+            "Stop": "2024-02-02T11:41:44Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "477 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": "2023-12-01T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T13:02:51Z",
+            "Stop": "2023-12-15T15:58:48Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "15 days",
+            "Last": "296 days ago"
+        },
+        {
+            "Start": "2023-12-15T13:19:17Z",
+            "Stop": "2023-12-15T14:47:36Z",
+            "Description": "Gingival disease (disorder)",
+            "Duration": "1 days",
+            "Last": "296 days ago"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": "2024-02-02T10:44:42Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2024-02-02T11:41:44Z",
+            "Stop": null,
+            "Description": "Not in labor force (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T11:41:44Z",
+            "Stop": null,
+            "Description": "Stress (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ],
+    "Surgeries": [
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": "2014-10-10T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": "2014-10-10T11:27:02Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T11:27:02Z",
+            "Stop": "2014-10-10T12:05:28Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T12:05:28Z",
+            "Stop": "2014-10-10T12:19:47Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T12:19:47Z",
+            "Stop": "2014-10-10T12:40:18Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T12:40:18Z",
+            "Stop": "2014-10-10T12:52:10Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-10-10T12:52:10Z",
+            "Stop": "2014-10-10T13:19:10Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "3650 days ago"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": "2014-11-21T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": "2014-11-21T11:19:45Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T11:19:45Z",
+            "Stop": "2014-11-21T11:48:36Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T11:48:36Z",
+            "Stop": "2014-11-21T12:16:53Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T12:16:53Z",
+            "Stop": "2014-11-21T12:28:14Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T12:28:14Z",
+            "Stop": "2014-11-21T12:54:01Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-11-21T12:54:01Z",
+            "Stop": "2014-11-21T13:01:25Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "3608 days ago"
+        },
+        {
+            "Start": "2014-12-05T10:44:42Z",
+            "Stop": "2014-12-05T11:23:38Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "3594 days ago"
+        },
+        {
+            "Start": "2014-12-05T11:23:38Z",
+            "Stop": "2014-12-05T11:43:20Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "3594 days ago"
+        },
+        {
+            "Start": "2014-12-05T11:43:20Z",
+            "Stop": "2014-12-05T12:00:15Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3594 days ago"
+        },
+        {
+            "Start": "2014-12-05T12:00:15Z",
+            "Stop": "2014-12-05T12:30:55Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3594 days ago"
+        },
+        {
+            "Start": "2014-12-05T12:30:55Z",
+            "Stop": "2014-12-05T13:00:55Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "3594 days ago"
+        },
+        {
+            "Start": "2014-12-05T12:30:55Z",
+            "Stop": "2014-12-05T13:24:31Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "3594 days ago"
+        },
+        {
+            "Start": "2014-12-05T13:24:31Z",
+            "Stop": "2014-12-05T13:32:49Z",
+            "Description": "Dental surgical procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "3593 days ago"
+        },
+        {
+            "Start": "2014-12-05T13:32:49Z",
+            "Stop": "2014-12-05T14:41:11Z",
+            "Description": "Dental application of desensitizing medicament (procedure)",
+            "Duration": "1 days",
+            "Last": "3593 days ago"
+        },
+        {
+            "Start": "2014-12-05T14:41:11Z",
+            "Stop": "2014-12-05T15:07:04Z",
+            "Description": "Gingivectomy or gingivoplasty, per tooth (procedure)",
+            "Duration": "1 days",
+            "Last": "3593 days ago"
+        },
+        {
+            "Start": "2014-12-05T15:07:04Z",
+            "Stop": "2014-12-05T16:21:56Z",
+            "Description": "Postoperative care for dental procedure (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "3593 days ago"
+        },
+        {
+            "Start": "2014-12-05T16:21:56Z",
+            "Stop": "2014-12-05T16:30:36Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "3593 days ago"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": "2015-10-16T11:17:13Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "2015-10-16T11:17:13Z",
+            "Stop": "2015-10-16T11:28:52Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "2015-10-16T11:28:52Z",
+            "Stop": "2015-10-16T11:57:13Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "2015-10-16T11:57:13Z",
+            "Stop": "2015-10-16T12:08:44Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "2015-10-16T12:08:44Z",
+            "Stop": "2015-10-16T12:30:06Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "2015-10-16T12:30:06Z",
+            "Stop": "2015-10-16T12:44:18Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "3279 days ago"
+        },
+        {
+            "Start": "2015-10-30T10:44:42Z",
+            "Stop": "2015-10-30T11:17:20Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "3265 days ago"
+        },
+        {
+            "Start": "2015-10-30T11:17:20Z",
+            "Stop": "2015-10-30T11:43:16Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "3265 days ago"
+        },
+        {
+            "Start": "2015-10-30T11:43:16Z",
+            "Stop": "2015-10-30T12:22:12Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3265 days ago"
+        },
+        {
+            "Start": "2015-10-30T12:22:12Z",
+            "Stop": "2015-10-30T12:45:08Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3265 days ago"
+        },
+        {
+            "Start": "2015-10-30T12:45:08Z",
+            "Stop": "2015-10-30T13:15:08Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "3265 days ago"
+        },
+        {
+            "Start": "2015-10-30T12:45:08Z",
+            "Stop": "2015-10-30T13:23:09Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "3265 days ago"
+        },
+        {
+            "Start": "2015-10-30T13:23:09Z",
+            "Stop": "2015-10-30T13:41:11Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "3264 days ago"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": "2016-06-17T11:32:34Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "3034 days ago"
+        },
+        {
+            "Start": "2016-06-17T11:32:34Z",
+            "Stop": "2016-06-17T11:53:43Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "3034 days ago"
+        },
+        {
+            "Start": "2016-06-17T11:53:43Z",
+            "Stop": "2016-06-17T12:07:08Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "3034 days ago"
+        },
+        {
+            "Start": "2016-06-17T12:07:08Z",
+            "Stop": "2016-06-17T12:28:12Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "3034 days ago"
+        },
+        {
+            "Start": "2016-06-17T12:28:12Z",
+            "Stop": "2016-06-17T12:42:54Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "3034 days ago"
+        },
+        {
+            "Start": "2016-06-17T12:42:54Z",
+            "Stop": "2016-06-17T13:11:44Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "3034 days ago"
+        },
+        {
+            "Start": "2016-06-24T10:44:42Z",
+            "Stop": "2016-06-24T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "3027 days ago"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": "2016-07-15T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": "2016-07-15T11:41:22Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-15T11:41:22Z",
+            "Stop": "2016-07-15T11:55:08Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-15T11:55:08Z",
+            "Stop": "2016-07-15T12:24:05Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-15T12:24:05Z",
+            "Stop": "2016-07-15T12:35:18Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-15T12:35:18Z",
+            "Stop": "2016-07-15T13:01:14Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "3006 days ago"
+        },
+        {
+            "Start": "2016-07-29T10:44:42Z",
+            "Stop": "2016-07-29T11:29:11Z",
+            "Description": "Colonoscopy",
+            "Duration": "1 days",
+            "Last": "2992 days ago"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": "2016-10-21T11:27:52Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2908 days ago"
+        },
+        {
+            "Start": "2016-10-21T11:27:52Z",
+            "Stop": "2016-10-21T11:39:32Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2908 days ago"
+        },
+        {
+            "Start": "2016-10-21T11:39:32Z",
+            "Stop": "2016-10-21T12:07:17Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2908 days ago"
+        },
+        {
+            "Start": "2016-10-21T12:07:17Z",
+            "Stop": "2016-10-21T12:19:11Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "2908 days ago"
+        },
+        {
+            "Start": "2016-10-21T12:19:11Z",
+            "Stop": "2016-10-21T12:46:41Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2908 days ago"
+        },
+        {
+            "Start": "2016-10-21T12:46:41Z",
+            "Stop": "2016-10-21T12:51:41Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2908 days ago"
+        },
+        {
+            "Start": "2016-11-04T10:44:42Z",
+            "Stop": "2016-11-04T11:28:34Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "2894 days ago"
+        },
+        {
+            "Start": "2016-11-04T11:28:34Z",
+            "Stop": "2016-11-04T11:59:02Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "2894 days ago"
+        },
+        {
+            "Start": "2016-11-04T11:59:02Z",
+            "Stop": "2016-11-04T12:29:15Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2894 days ago"
+        },
+        {
+            "Start": "2016-11-04T12:29:15Z",
+            "Stop": "2016-11-04T13:09:06Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2894 days ago"
+        },
+        {
+            "Start": "2016-11-04T13:09:06Z",
+            "Stop": "2016-11-04T13:39:06Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "2893 days ago"
+        },
+        {
+            "Start": "2016-11-04T13:09:06Z",
+            "Stop": "2016-11-04T14:05:30Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "2893 days ago"
+        },
+        {
+            "Start": "2016-11-04T14:05:30Z",
+            "Stop": "2016-11-04T14:41:02Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "2893 days ago"
+        },
+        {
+            "Start": "2016-11-04T14:41:02Z",
+            "Stop": "2016-11-04T15:00:08Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "2893 days ago"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": "2017-01-13T11:39:58Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-01-13T11:39:58Z",
+            "Stop": "2017-01-13T12:08:29Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-01-13T12:08:29Z",
+            "Stop": "2017-01-13T12:43:48Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-01-13T12:43:48Z",
+            "Stop": "2017-01-13T12:57:11Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-01-13T12:57:11Z",
+            "Stop": "2017-01-13T13:23:51Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-01-13T13:23:51Z",
+            "Stop": "2017-01-13T13:36:47Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "2823 days ago"
+        },
+        {
+            "Start": "2017-01-13T13:36:47Z",
+            "Stop": "2017-01-13T14:00:27Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2823 days ago"
+        },
+        {
+            "Start": "2017-01-13T14:00:27Z",
+            "Stop": "2017-01-13T14:05:27Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2823 days ago"
+        },
+        {
+            "Start": "2017-01-27T10:44:42Z",
+            "Stop": "2017-01-27T11:11:42Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-01-27T11:11:42Z",
+            "Stop": "2017-01-27T11:41:21Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-01-27T11:41:21Z",
+            "Stop": "2017-01-27T12:09:36Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-01-27T12:09:36Z",
+            "Stop": "2017-01-27T12:29:22Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-01-27T12:29:22Z",
+            "Stop": "2017-01-27T12:59:22Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-01-27T12:29:22Z",
+            "Stop": "2017-01-27T13:07:45Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-01-27T13:07:45Z",
+            "Stop": "2017-01-27T13:22:46Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "2810 days ago"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": "2017-10-27T11:17:24Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2537 days ago"
+        },
+        {
+            "Start": "2017-10-27T11:17:24Z",
+            "Stop": "2017-10-27T11:31:03Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2537 days ago"
+        },
+        {
+            "Start": "2017-10-27T11:31:03Z",
+            "Stop": "2017-10-27T11:59:13Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2537 days ago"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": "2017-11-24T11:26:43Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2509 days ago"
+        },
+        {
+            "Start": "2017-11-24T11:26:43Z",
+            "Stop": "2017-11-24T11:56:40Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "2509 days ago"
+        },
+        {
+            "Start": "2017-11-24T11:56:40Z",
+            "Stop": "2017-11-24T12:26:14Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2509 days ago"
+        },
+        {
+            "Start": "2017-11-24T12:26:14Z",
+            "Stop": "2017-11-24T12:38:57Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2509 days ago"
+        },
+        {
+            "Start": "2017-11-24T12:38:57Z",
+            "Stop": "2017-11-24T13:04:20Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2509 days ago"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": "2017-12-08T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2495 days ago"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": "2017-12-08T11:39:19Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2495 days ago"
+        },
+        {
+            "Start": "2017-12-08T11:39:19Z",
+            "Stop": "2017-12-08T12:08:17Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "2495 days ago"
+        },
+        {
+            "Start": "2017-12-08T12:08:17Z",
+            "Stop": "2017-12-08T12:50:53Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2495 days ago"
+        },
+        {
+            "Start": "2017-12-08T12:50:53Z",
+            "Stop": "2017-12-08T13:04:20Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2495 days ago"
+        },
+        {
+            "Start": "2017-12-08T13:04:20Z",
+            "Stop": "2017-12-08T13:30:32Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2494 days ago"
+        },
+        {
+            "Start": "2017-12-08T13:30:32Z",
+            "Stop": "2017-12-08T13:44:52Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "2494 days ago"
+        },
+        {
+            "Start": "2017-12-08T13:44:52Z",
+            "Stop": "2017-12-08T14:09:31Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2494 days ago"
+        },
+        {
+            "Start": "2017-12-08T14:09:31Z",
+            "Stop": "2017-12-08T14:22:04Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2494 days ago"
+        },
+        {
+            "Start": "2017-12-15T10:44:42Z",
+            "Stop": "2017-12-15T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": "2017-12-22T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": "2017-12-22T11:33:33Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T11:33:33Z",
+            "Stop": "2017-12-22T12:02:51Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T12:02:51Z",
+            "Stop": "2017-12-22T12:34:41Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T12:34:41Z",
+            "Stop": "2017-12-22T12:46:10Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T12:46:10Z",
+            "Stop": "2017-12-22T13:10:53Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2481 days ago"
+        },
+        {
+            "Start": "2017-12-22T13:10:53Z",
+            "Stop": "2017-12-22T13:32:09Z",
+            "Description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2480 days ago"
+        },
+        {
+            "Start": "2017-12-22T13:32:09Z",
+            "Stop": "2017-12-22T13:37:09Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2480 days ago"
+        },
+        {
+            "Start": "2017-12-29T10:44:42Z",
+            "Stop": "2017-12-29T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": "2018-01-05T11:16:02Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2467 days ago"
+        },
+        {
+            "Start": "2018-01-05T11:16:02Z",
+            "Stop": "2018-01-05T11:51:18Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2467 days ago"
+        },
+        {
+            "Start": "2018-01-05T11:51:18Z",
+            "Stop": "2018-01-05T12:05:30Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2467 days ago"
+        },
+        {
+            "Start": "2018-01-05T12:05:30Z",
+            "Stop": "2018-01-05T12:34:09Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2467 days ago"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": "2018-01-19T11:44:24Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2453 days ago"
+        },
+        {
+            "Start": "2018-01-19T11:44:24Z",
+            "Stop": "2018-01-19T12:04:50Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "2453 days ago"
+        },
+        {
+            "Start": "2018-01-19T12:04:50Z",
+            "Stop": "2018-01-19T12:15:57Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "2453 days ago"
+        },
+        {
+            "Start": "2018-01-19T12:15:57Z",
+            "Stop": "2018-01-19T12:40:09Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2453 days ago"
+        },
+        {
+            "Start": "2018-01-26T10:44:42Z",
+            "Stop": "2018-01-26T11:08:02Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "2446 days ago"
+        },
+        {
+            "Start": "2018-01-26T11:08:02Z",
+            "Stop": "2018-01-26T11:42:15Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "2446 days ago"
+        },
+        {
+            "Start": "2018-01-26T11:42:15Z",
+            "Stop": "2018-01-26T12:10:37Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2446 days ago"
+        },
+        {
+            "Start": "2018-01-26T12:10:37Z",
+            "Stop": "2018-01-26T12:39:01Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2446 days ago"
+        },
+        {
+            "Start": "2018-01-26T12:39:01Z",
+            "Stop": "2018-01-26T13:31:27Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "2445 days ago"
+        },
+        {
+            "Start": "2018-01-26T13:31:27Z",
+            "Stop": "2018-01-26T14:06:48Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "2445 days ago"
+        },
+        {
+            "Start": "2018-01-26T14:06:48Z",
+            "Stop": "2018-01-26T14:18:56Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "2445 days ago"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": "2018-02-09T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": "2018-02-09T11:34:34Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-02-09T11:34:34Z",
+            "Stop": "2018-02-09T11:47:45Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-02-09T11:47:45Z",
+            "Stop": "2018-02-09T12:14:02Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-02-09T12:14:02Z",
+            "Stop": "2018-02-09T12:28:22Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-02-09T12:28:22Z",
+            "Stop": "2018-02-09T12:49:32Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-02-09T12:49:32Z",
+            "Stop": "2018-02-09T12:59:51Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2432 days ago"
+        },
+        {
+            "Start": "2018-02-23T10:44:42Z",
+            "Stop": "2018-02-23T11:15:55Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-23T11:15:55Z",
+            "Stop": "2018-02-23T11:38:49Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-23T11:38:49Z",
+            "Stop": "2018-02-23T11:53:36Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-23T11:53:36Z",
+            "Stop": "2018-02-23T12:15:38Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-23T12:15:38Z",
+            "Stop": "2018-02-23T12:45:38Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-23T12:15:38Z",
+            "Stop": "2018-02-23T13:02:19Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-23T13:02:19Z",
+            "Stop": "2018-02-23T13:26:15Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "2418 days ago"
+        },
+        {
+            "Start": "2018-02-23T13:26:15Z",
+            "Stop": "2018-02-23T13:45:26Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "2417 days ago"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": "2018-11-02T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": "2018-11-02T11:21:50Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T11:21:50Z",
+            "Stop": "2018-11-02T11:41:37Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T11:41:37Z",
+            "Stop": "2018-11-02T11:55:41Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T11:55:41Z",
+            "Stop": "2018-11-02T12:16:16Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T12:16:16Z",
+            "Stop": "2018-11-02T12:28:00Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T12:28:00Z",
+            "Stop": "2018-11-02T12:53:49Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-02T12:53:49Z",
+            "Stop": "2018-11-02T13:05:43Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2166 days ago"
+        },
+        {
+            "Start": "2018-11-16T10:44:42Z",
+            "Stop": "2018-11-16T10:50:09Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "2152 days ago"
+        },
+        {
+            "Start": "2018-11-16T10:50:09Z",
+            "Stop": "2018-11-16T11:20:04Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "2152 days ago"
+        },
+        {
+            "Start": "2018-11-16T11:20:04Z",
+            "Stop": "2018-11-16T11:53:35Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2152 days ago"
+        },
+        {
+            "Start": "2018-11-16T11:53:35Z",
+            "Stop": "2018-11-16T12:38:21Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2152 days ago"
+        },
+        {
+            "Start": "2018-11-16T12:38:21Z",
+            "Stop": "2018-11-16T13:08:21Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "2152 days ago"
+        },
+        {
+            "Start": "2018-11-16T12:38:21Z",
+            "Stop": "2018-11-16T13:31:08Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "2151 days ago"
+        },
+        {
+            "Start": "2018-11-16T13:31:08Z",
+            "Stop": "2018-11-16T13:44:50Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "2151 days ago"
+        },
+        {
+            "Start": "2018-12-25T10:44:42Z",
+            "Stop": "2018-12-25T11:13:14Z",
+            "Description": "Suture open wound",
+            "Duration": "1 days",
+            "Last": "2113 days ago"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": "2019-02-01T11:35:10Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2075 days ago"
+        },
+        {
+            "Start": "2019-02-01T11:35:10Z",
+            "Stop": "2019-02-01T11:46:46Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2075 days ago"
+        },
+        {
+            "Start": "2019-02-01T11:46:46Z",
+            "Stop": "2019-02-01T12:07:26Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2075 days ago"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": "2019-09-27T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": "2019-09-27T11:26:14Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T11:26:14Z",
+            "Stop": "2019-09-27T11:44:41Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T11:44:41Z",
+            "Stop": "2019-09-27T12:15:18Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T12:15:18Z",
+            "Stop": "2019-09-27T12:28:26Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T12:28:26Z",
+            "Stop": "2019-09-27T12:50:56Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-09-27T12:50:56Z",
+            "Stop": "2019-09-27T13:06:48Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "1837 days ago"
+        },
+        {
+            "Start": "2019-10-11T10:44:42Z",
+            "Stop": "2019-10-11T11:04:43Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-10-11T11:04:43Z",
+            "Stop": "2019-10-11T11:19:39Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-10-11T11:19:39Z",
+            "Stop": "2019-10-11T11:41:02Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-10-11T11:41:02Z",
+            "Stop": "2019-10-11T12:14:49Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-10-11T12:14:49Z",
+            "Stop": "2019-10-11T12:44:49Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-10-11T12:14:49Z",
+            "Stop": "2019-10-11T12:46:09Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-10-11T12:46:09Z",
+            "Stop": "2019-10-11T13:08:57Z",
+            "Description": "Restoration of tooth with coverage of all cusps using dental filling material (procedure)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-10-11T13:08:57Z",
+            "Stop": "2019-10-11T13:25:48Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "1823 days ago"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": "2019-11-08T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "1795 days ago"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": "2019-11-08T11:36:38Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "1795 days ago"
+        },
+        {
+            "Start": "2019-11-08T11:36:38Z",
+            "Stop": "2019-11-08T11:48:28Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "1795 days ago"
+        },
+        {
+            "Start": "2019-11-08T11:48:28Z",
+            "Stop": "2019-11-08T12:13:10Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "1795 days ago"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": "2020-11-13T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "1424 days ago"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": "2020-11-13T11:42:01Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "1424 days ago"
+        },
+        {
+            "Start": "2020-11-13T11:42:01Z",
+            "Stop": "2020-11-13T12:18:40Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "1424 days ago"
+        },
+        {
+            "Start": "2020-11-13T12:18:40Z",
+            "Stop": "2020-11-13T12:32:34Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "1424 days ago"
+        },
+        {
+            "Start": "2020-11-13T12:32:34Z",
+            "Stop": "2020-11-13T13:00:50Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "1424 days ago"
+        },
+        {
+            "Start": "2021-07-29T11:29:11Z",
+            "Stop": "2021-07-29T12:00:01Z",
+            "Description": "Colonoscopy",
+            "Duration": "1 days",
+            "Last": "1166 days ago"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": "2021-10-15T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": "2021-10-15T11:27:30Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T11:27:30Z",
+            "Stop": "2021-10-15T11:48:02Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T11:48:02Z",
+            "Stop": "2021-10-15T12:02:04Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T12:02:04Z",
+            "Stop": "2021-10-15T12:26:54Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T12:26:54Z",
+            "Stop": "2021-10-15T12:54:06Z",
+            "Description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T12:54:06Z",
+            "Stop": "2021-10-15T13:08:16Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "1088 days ago"
+        },
+        {
+            "Start": "2021-10-15T13:08:16Z",
+            "Stop": "2021-10-15T13:36:33Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "1087 days ago"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": "2021-11-19T11:43:25Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "1053 days ago"
+        },
+        {
+            "Start": "2021-11-19T11:43:25Z",
+            "Stop": "2021-11-19T12:01:52Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "1053 days ago"
+        },
+        {
+            "Start": "2021-11-19T12:01:52Z",
+            "Stop": "2021-11-19T12:42:03Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "1053 days ago"
+        },
+        {
+            "Start": "2021-11-19T12:42:03Z",
+            "Stop": "2021-11-19T12:53:03Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "1053 days ago"
+        },
+        {
+            "Start": "2021-11-19T12:53:03Z",
+            "Stop": "2021-11-19T13:21:20Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "1053 days ago"
+        },
+        {
+            "Start": "2022-04-01T10:44:42Z",
+            "Stop": "2022-04-01T10:59:42Z",
+            "Description": "Referral to home health care service (procedure)",
+            "Duration": "1 days",
+            "Last": "920 days ago"
+        },
+        {
+            "Start": "2022-04-03T05:42:42Z",
+            "Stop": "2022-04-03T05:57:42Z",
+            "Description": "Initial patient assessment (procedure)",
+            "Duration": "1 days",
+            "Last": "918 days ago"
+        },
+        {
+            "Start": "2022-04-03T05:42:42Z",
+            "Stop": "2022-04-03T05:57:42Z",
+            "Description": "Comprehensive interview and evaluation (procedure)",
+            "Duration": "1 days",
+            "Last": "918 days ago"
+        },
+        {
+            "Start": "2022-04-03T05:42:42Z",
+            "Stop": "2022-04-03T05:57:42Z",
+            "Description": "Development of individualized plan of care (procedure)",
+            "Duration": "1 days",
+            "Last": "918 days ago"
+        },
+        {
+            "Start": "2022-04-03T05:42:42Z",
+            "Stop": "2022-04-03T05:57:42Z",
+            "Description": "Coordination of care plan (procedure)",
+            "Duration": "1 days",
+            "Last": "918 days ago"
+        },
+        {
+            "Start": "2022-04-04T05:42:42Z",
+            "Stop": "2022-04-04T05:57:42Z",
+            "Description": "Nursing care/supplementary surveillance (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "917 days ago"
+        },
+        {
+            "Start": "2022-04-05T05:42:42Z",
+            "Stop": "2022-04-05T05:57:42Z",
+            "Description": "Home health aide service (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "916 days ago"
+        },
+        {
+            "Start": "2022-04-06T05:42:42Z",
+            "Stop": "2022-04-06T05:57:42Z",
+            "Description": "Nursing care/supplementary surveillance (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "915 days ago"
+        },
+        {
+            "Start": "2022-04-07T05:42:42Z",
+            "Stop": "2022-04-07T05:57:42Z",
+            "Description": "Nursing care/supplementary surveillance (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "914 days ago"
+        },
+        {
+            "Start": "2022-04-08T05:42:42Z",
+            "Stop": "2022-04-08T05:57:42Z",
+            "Description": "Nursing care/supplementary surveillance (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "913 days ago"
+        },
+        {
+            "Start": "2022-04-09T05:42:42Z",
+            "Stop": "2022-04-09T05:57:42Z",
+            "Description": "Occupational therapy (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "912 days ago"
+        },
+        {
+            "Start": "2022-04-10T05:42:42Z",
+            "Stop": "2022-04-10T05:57:42Z",
+            "Description": "Nursing care/supplementary surveillance (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "911 days ago"
+        },
+        {
+            "Start": "2022-04-11T05:42:42Z",
+            "Stop": "2022-04-11T05:57:42Z",
+            "Description": "Nursing care/supplementary surveillance (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "910 days ago"
+        },
+        {
+            "Start": "2022-04-12T05:42:42Z",
+            "Stop": "2022-04-12T05:57:42Z",
+            "Description": "Nursing care/supplementary surveillance (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "909 days ago"
+        },
+        {
+            "Start": "2022-04-13T05:42:42Z",
+            "Stop": "2022-04-13T05:57:42Z",
+            "Description": "Physical therapy procedure (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "908 days ago"
+        },
+        {
+            "Start": "2022-04-13T05:42:42Z",
+            "Stop": "2022-04-13T05:57:42Z",
+            "Description": "Patient discharge (procedure)",
+            "Duration": "1 days",
+            "Last": "908 days ago"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": "2022-07-15T11:25:40Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "815 days ago"
+        },
+        {
+            "Start": "2022-07-15T11:25:40Z",
+            "Stop": "2022-07-15T11:55:07Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "815 days ago"
+        },
+        {
+            "Start": "2022-07-15T11:55:07Z",
+            "Stop": "2022-07-15T12:32:03Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "815 days ago"
+        },
+        {
+            "Start": "2022-07-15T12:32:03Z",
+            "Stop": "2022-07-15T12:43:28Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "815 days ago"
+        },
+        {
+            "Start": "2022-07-15T12:43:28Z",
+            "Stop": "2022-07-15T13:06:51Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "815 days ago"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": "2022-10-14T11:41:24Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "724 days ago"
+        },
+        {
+            "Start": "2022-10-14T11:41:24Z",
+            "Stop": "2022-10-14T12:02:09Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "724 days ago"
+        },
+        {
+            "Start": "2022-10-14T12:02:09Z",
+            "Stop": "2022-10-14T12:36:53Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "724 days ago"
+        },
+        {
+            "Start": "2022-10-14T12:36:53Z",
+            "Stop": "2022-10-14T12:51:06Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "724 days ago"
+        },
+        {
+            "Start": "2022-10-14T12:51:06Z",
+            "Stop": "2022-10-14T13:20:29Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "724 days ago"
+        },
+        {
+            "Start": "2022-10-14T13:20:29Z",
+            "Stop": "2022-10-14T13:34:37Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "723 days ago"
+        },
+        {
+            "Start": "2022-10-14T13:34:37Z",
+            "Stop": "2022-10-14T13:55:11Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "723 days ago"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": "2022-11-25T11:43:41Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "682 days ago"
+        },
+        {
+            "Start": "2022-11-25T11:43:41Z",
+            "Stop": "2022-11-25T12:15:36Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "682 days ago"
+        },
+        {
+            "Start": "2022-11-25T12:15:36Z",
+            "Stop": "2022-11-25T12:30:21Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "682 days ago"
+        },
+        {
+            "Start": "2022-11-25T12:30:21Z",
+            "Stop": "2022-11-25T12:52:29Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "682 days ago"
+        },
+        {
+            "Start": "2022-11-25T12:52:29Z",
+            "Stop": "2022-11-25T13:07:00Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "682 days ago"
+        },
+        {
+            "Start": "2022-11-25T13:07:00Z",
+            "Stop": "2022-11-25T13:33:53Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "681 days ago"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": "2023-09-08T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "395 days ago"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": "2023-09-08T11:42:00Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "395 days ago"
+        },
+        {
+            "Start": "2023-09-08T11:42:00Z",
+            "Stop": "2023-09-08T12:06:29Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "395 days ago"
+        },
+        {
+            "Start": "2023-09-08T12:06:29Z",
+            "Stop": "2023-09-08T12:19:48Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "395 days ago"
+        },
+        {
+            "Start": "2023-09-08T12:19:48Z",
+            "Stop": "2023-09-08T12:40:03Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "395 days ago"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": "2023-12-01T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": "2023-12-01T11:37:35Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T11:37:35Z",
+            "Stop": "2023-12-01T11:53:20Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T11:53:20Z",
+            "Stop": "2023-12-01T12:05:27Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T12:05:27Z",
+            "Stop": "2023-12-01T12:26:15Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T12:26:15Z",
+            "Stop": "2023-12-01T12:37:52Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T12:37:52Z",
+            "Stop": "2023-12-01T13:02:51Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-01T13:02:51Z",
+            "Stop": "2023-12-01T13:16:03Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "311 days ago"
+        },
+        {
+            "Start": "2023-12-15T10:44:42Z",
+            "Stop": "2023-12-15T11:19:46Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "297 days ago"
+        },
+        {
+            "Start": "2023-12-15T11:19:46Z",
+            "Stop": "2023-12-15T11:48:19Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "297 days ago"
+        },
+        {
+            "Start": "2023-12-15T11:48:19Z",
+            "Stop": "2023-12-15T12:03:01Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "297 days ago"
+        },
+        {
+            "Start": "2023-12-15T12:03:01Z",
+            "Stop": "2023-12-15T12:22:59Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "297 days ago"
+        },
+        {
+            "Start": "2023-12-15T12:22:59Z",
+            "Stop": "2023-12-15T12:52:59Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "297 days ago"
+        },
+        {
+            "Start": "2023-12-15T12:22:59Z",
+            "Stop": "2023-12-15T13:19:17Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "297 days ago"
+        },
+        {
+            "Start": "2023-12-15T13:19:17Z",
+            "Stop": "2023-12-15T13:27:49Z",
+            "Description": "Dental surgical procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "297 days ago"
+        },
+        {
+            "Start": "2023-12-15T13:27:49Z",
+            "Stop": "2023-12-15T13:56:37Z",
+            "Description": "Dental application of desensitizing medicament (procedure)",
+            "Duration": "1 days",
+            "Last": "296 days ago"
+        },
+        {
+            "Start": "2023-12-15T13:56:37Z",
+            "Stop": "2023-12-15T14:47:36Z",
+            "Description": "Gingivectomy or gingivoplasty, per tooth (procedure)",
+            "Duration": "1 days",
+            "Last": "296 days ago"
+        },
+        {
+            "Start": "2023-12-15T14:47:36Z",
+            "Stop": "2023-12-15T15:58:48Z",
+            "Description": "Postoperative care for dental procedure (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "296 days ago"
+        },
+        {
+            "Start": "2023-12-15T15:58:48Z",
+            "Stop": "2023-12-15T16:16:49Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "296 days ago"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": "2024-02-02T10:59:42Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": "2024-02-02T11:41:44Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2024-02-02T11:41:44Z",
+            "Stop": "2024-02-02T12:09:54Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2024-02-02T12:09:54Z",
+            "Stop": "2024-02-02T12:22:02Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2024-02-02T12:22:02Z",
+            "Stop": "2024-02-02T12:43:37Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2024-02-02T12:43:37Z",
+            "Stop": "2024-02-02T12:48:37Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "248 days ago"
+        },
+        {
+            "Start": "2024-02-16T10:44:42Z",
+            "Stop": "2024-02-16T11:25:55Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "234 days ago"
+        },
+        {
+            "Start": "2024-02-16T11:25:55Z",
+            "Stop": "2024-02-16T12:02:28Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "234 days ago"
+        },
+        {
+            "Start": "2024-02-16T12:02:28Z",
+            "Stop": "2024-02-16T12:40:31Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "234 days ago"
+        },
+        {
+            "Start": "2024-02-16T12:40:31Z",
+            "Stop": "2024-02-16T13:09:05Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "234 days ago"
+        },
+        {
+            "Start": "2024-02-16T13:09:05Z",
+            "Stop": "2024-02-16T13:42:51Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "233 days ago"
+        },
+        {
+            "Start": "2024-02-16T13:42:51Z",
+            "Stop": "2024-02-16T14:08:21Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "233 days ago"
+        },
+        {
+            "Start": "2024-02-16T14:08:21Z",
+            "Stop": "2024-02-16T14:19:29Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "233 days ago"
+        }
+    ],
+    "Vital Signs": [
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "91.3 kg"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "28.2 kg/m2"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "61 /min"
+        },
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "16 /min"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "91.5 kg"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "28.27 kg/m2"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "83 /min"
+        },
+        {
+            "Start": "2014-11-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "93.4 kg"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "28.86 kg/m2"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "77 /min"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.8 kg"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "29.29 kg/m2"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "71 /min"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "95 kg"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "29.34 kg/m2"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "83 /min"
+        },
+        {
+            "Start": "2016-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "16 /min"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "95.5 kg"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "29.52 kg/m2"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "61 /min"
+        },
+        {
+            "Start": "2016-10-21T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "12 /min"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "96 kg"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "29.66 kg/m2"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "79 /min"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "63 /min"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "92 /min"
+        },
+        {
+            "Start": "2017-11-24T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "92 /min"
+        },
+        {
+            "Start": "2017-12-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "62 /min"
+        },
+        {
+            "Start": "2017-12-22T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "97 /min"
+        },
+        {
+            "Start": "2018-01-05T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "65 /min"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "97 /min"
+        },
+        {
+            "Start": "2018-02-09T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "98 /min"
+        },
+        {
+            "Start": "2018-11-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "71 /min"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "81 /min"
+        },
+        {
+            "Start": "2019-09-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "12 /min"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "94 /min"
+        },
+        {
+            "Start": "2019-11-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "92 /min"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "83 /min"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "12 /min"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "94 /min"
+        },
+        {
+            "Start": "2021-11-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "12 /min"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "76 /min"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "12 /min"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "97.4 kg"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.1 kg/m2"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "76 /min"
+        },
+        {
+            "Start": "2022-10-14T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "96.3 kg"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "29.76 kg/m2"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "65 /min"
+        },
+        {
+            "Start": "2022-11-25T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "89 kg"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "27.51 kg/m2"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "100 /min"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "88.4 kg"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "27.32 kg/m2"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "99 /min"
+        },
+        {
+            "Start": "2023-12-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "179.9 cm"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "88.8 kg"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "27.44 kg/m2"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "79 /min"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        }
+    ],
+    "Immunizations": [
+        {
+            "Start": "2014-10-10T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-10-16T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-06-17T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-01-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-10-27T10:44:42Z",
+            "Stop": null,
+            "Description": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-01-19T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-02-01T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-11-13T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-04-16T10:44:42Z",
+            "Stop": null,
+            "Description": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-05-07T10:44:42Z",
+            "Stop": null,
+            "Description": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-10-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Pneumococcal conjugate PCV 13",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-07-15T10:44:42Z",
+            "Stop": null,
+            "Description": "pneumococcal polysaccharide vaccine, 23 valent",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-09-08T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-02-02T10:44:42Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ]
+}

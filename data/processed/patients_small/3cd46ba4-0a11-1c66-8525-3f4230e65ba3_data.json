@@ -1,0 +1,1875 @@
+{
+    "Patient ID": "3cd46ba4-0a11-1c66-8525-3f4230e65ba3",
+    "Given Name": "Jen355 Tempie784",
+    "Gender": "F",
+    "Birth Time": "19240721113218",
+    "Age": 100,
+    "Race": "white",
+    "Ethnic Group": "non-hispanic",
+    "Language": "en-US",
+    "Medications": [
+        {
+            "Start": "1983-09-19T11:32:18Z",
+            "Stop": null,
+            "Description": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+            "Duration of Usage": null,
+            "Last Usage": "Currently used"
+        },
+        {
+            "Start": "1983-09-19T11:32:18Z",
+            "Stop": null,
+            "Description": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+            "Duration of Usage": null,
+            "Last Usage": "Currently used"
+        },
+        {
+            "Start": "1991-04-21T12:40:59Z",
+            "Stop": null,
+            "Description": "Furosemide 40 MG Oral Tablet",
+            "Duration of Usage": null,
+            "Last Usage": "Currently used"
+        },
+        {
+            "Start": "1991-10-18T12:50:40Z",
+            "Stop": "1991-10-18T12:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": "1991-10-19T00:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12042 days ago"
+        },
+        {
+            "Start": "1991-10-19T12:50:40Z",
+            "Stop": "1991-10-19T12:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12042 days ago"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": "1991-10-20T00:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12041 days ago"
+        },
+        {
+            "Start": "1991-10-20T12:50:40Z",
+            "Stop": "1991-10-20T12:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12041 days ago"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": "1991-10-21T00:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12040 days ago"
+        },
+        {
+            "Start": "1991-10-21T12:50:40Z",
+            "Stop": "1991-10-21T12:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12040 days ago"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": "1991-10-22T00:50:40Z",
+            "Description": "10 ML Furosemide 10 MG/ML Injection",
+            "Duration of Usage": "1 days",
+            "Last Usage": "12039 days ago"
+        }
+    ],
+    "Diagnostic Results": [
+        {
+            "Start": "1982-09-06T12:54:33Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1983-09-12T13:04:01Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1983-09-12T13:43:39Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1984-09-17T12:43:30Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1984-09-17T13:15:16Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1984-09-17T13:55:14Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1984-09-17T14:28:41Z",
+            "Stop": null,
+            "Description": "Drug Abuse Screening Test-10 [DAST-10]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1985-09-23T12:33:09Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1985-09-23T13:06:32Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T12:41:34Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T13:05:49Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T13:50:03Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T14:26:47Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T15:07:05Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1987-10-05T12:23:40Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1987-10-05T12:55:28Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1988-10-10T12:42:17Z",
+            "Stop": null,
+            "Description": "Generalized anxiety disorder 7 item (GAD-7)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1988-10-10T13:07:35Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1988-10-10T13:33:42Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1988-10-10T14:13:32Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1989-10-16T12:36:58Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1990-10-22T12:29:54Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1990-10-22T12:56:35Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1990-10-22T13:31:48Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "Comprehensive metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "Troponin I.cardiac panel - Serum or Plasma by High sensitivity method",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "Iron panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "Iron and Iron binding capacity panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T12:40:59Z",
+            "Stop": null,
+            "Description": "New York Heart Association Functional Classification panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-21T12:40:59Z",
+            "Stop": null,
+            "Description": "Heart failure tracking panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-21T12:40:59Z",
+            "Stop": null,
+            "Description": "Basic metabolic panel - Blood",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "Comprehensive metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "Troponin I.cardiac panel - Serum or Plasma by High sensitivity method",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "Iron panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "Iron and Iron binding capacity panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": null,
+            "Description": "Comprehensive metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": null,
+            "Description": "Troponin I.cardiac panel - Serum or Plasma by High sensitivity method",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron and Iron binding capacity panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": null,
+            "Description": "Comprehensive metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": null,
+            "Description": "Troponin I.cardiac panel - Serum or Plasma by High sensitivity method",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron and Iron binding capacity panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": null,
+            "Description": "Comprehensive metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": null,
+            "Description": "Troponin I.cardiac panel - Serum or Plasma by High sensitivity method",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron and Iron binding capacity panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": null,
+            "Description": "Comprehensive metabolic 2000 panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": null,
+            "Description": "Lipid panel with direct LDL - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": null,
+            "Description": "Troponin I.cardiac panel - Serum or Plasma by High sensitivity method",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": null,
+            "Description": "Iron and Iron binding capacity panel - Serum or Plasma",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-11-04T11:32:18Z",
+            "Stop": null,
+            "Description": "U.S. standard certificate of death - 2003 revision",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ],
+    "Problems": [
+        {
+            "Start": "1941-09-08T11:58:08Z",
+            "Stop": null,
+            "Description": "Risk activity involvement (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1942-09-14T12:27:42Z",
+            "Stop": null,
+            "Description": "Housing unsatisfactory (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1942-09-14T12:27:42Z",
+            "Stop": null,
+            "Description": "Received certificate of high school equivalency (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1950-07-24T14:32:23Z",
+            "Stop": null,
+            "Description": "History of tubal ligation (situation)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1961-10-09T12:13:32Z",
+            "Stop": null,
+            "Description": "Social isolation (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1964-07-27T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index 30+ - obesity (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1968-08-05T12:51:11Z",
+            "Stop": null,
+            "Description": "Victim of intimate partner abuse (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1974-10-02T22:32:18Z",
+            "Stop": null,
+            "Description": "Chronic sinusitis (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1978-08-14T12:21:44Z",
+            "Stop": "1983-09-12T12:22:47Z",
+            "Description": "Stress (finding)",
+            "Duration": "1856 days",
+            "Last": "15001 days ago"
+        },
+        {
+            "Start": "1979-08-20T12:27:27Z",
+            "Stop": "1982-09-06T12:13:43Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "1113 days",
+            "Last": "15372 days ago"
+        },
+        {
+            "Start": "1981-08-31T11:32:18Z",
+            "Stop": "1982-09-06T11:32:18Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "372 days",
+            "Last": "15372 days ago"
+        },
+        {
+            "Start": "1982-09-06T12:13:43Z",
+            "Stop": "1983-09-12T12:22:47Z",
+            "Description": "Part-time employment (finding)",
+            "Duration": "372 days",
+            "Last": "15001 days ago"
+        },
+        {
+            "Start": "1982-09-06T12:13:43Z",
+            "Stop": "1990-10-22T12:05:41Z",
+            "Description": "Limited social contact (finding)",
+            "Duration": "2968 days",
+            "Last": "12404 days ago"
+        },
+        {
+            "Start": "1982-09-20T14:18:57Z",
+            "Stop": "1982-09-20T15:02:23Z",
+            "Description": "Primary dental caries (disorder)",
+            "Duration": "1 days",
+            "Last": "15357 days ago"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Medication review due (situation)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Ischemic heart disease (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1983-09-12T12:22:47Z",
+            "Stop": "1990-10-22T12:05:41Z",
+            "Description": "Full-time employment (finding)",
+            "Duration": "2597 days",
+            "Last": "12404 days ago"
+        },
+        {
+            "Start": "1983-09-12T13:43:39Z",
+            "Stop": "1983-10-03T13:18:00Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "21 days",
+            "Last": "14980 days ago"
+        },
+        {
+            "Start": "1983-09-23T08:04:53Z",
+            "Stop": null,
+            "Description": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Osteoporosis (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1985-09-23T12:18:08Z",
+            "Stop": "1987-10-05T12:05:16Z",
+            "Description": "Stress (finding)",
+            "Duration": "742 days",
+            "Last": "13517 days ago"
+        },
+        {
+            "Start": "1988-10-10T14:13:32Z",
+            "Stop": "1988-10-24T14:43:27Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "15 days",
+            "Last": "13131 days ago"
+        },
+        {
+            "Start": "1989-10-16T12:17:54Z",
+            "Stop": null,
+            "Description": "Stress (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1990-10-22T12:05:41Z",
+            "Stop": null,
+            "Description": "Part-time employment (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "Chronic congestive heart failure (disorder)",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ],
+    "Surgeries": [
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": "1982-09-06T11:47:18Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "15372 days ago"
+        },
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": "1982-09-06T12:13:43Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "15372 days ago"
+        },
+        {
+            "Start": "1982-09-06T12:13:43Z",
+            "Stop": "1982-09-06T12:28:25Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "15372 days ago"
+        },
+        {
+            "Start": "1982-09-06T12:28:25Z",
+            "Stop": "1982-09-06T12:54:33Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "15372 days ago"
+        },
+        {
+            "Start": "1982-09-06T12:54:33Z",
+            "Stop": "1982-09-06T13:02:23Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "15372 days ago"
+        },
+        {
+            "Start": "1982-09-20T11:32:18Z",
+            "Stop": "1982-09-20T11:52:45Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "15358 days ago"
+        },
+        {
+            "Start": "1982-09-20T11:52:45Z",
+            "Stop": "1982-09-20T12:38:09Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "15358 days ago"
+        },
+        {
+            "Start": "1982-09-20T12:38:09Z",
+            "Stop": "1982-09-20T13:01:45Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "15358 days ago"
+        },
+        {
+            "Start": "1982-09-20T13:01:45Z",
+            "Stop": "1982-09-20T13:42:16Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "15357 days ago"
+        },
+        {
+            "Start": "1982-09-20T13:42:16Z",
+            "Stop": "1982-09-20T14:18:57Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "15357 days ago"
+        },
+        {
+            "Start": "1982-09-20T14:18:57Z",
+            "Stop": "1982-09-20T15:02:23Z",
+            "Description": "Restoration of tooth with coverage of all cusps using dental filling material (procedure)",
+            "Duration": "1 days",
+            "Last": "15357 days ago"
+        },
+        {
+            "Start": "1982-09-20T15:02:23Z",
+            "Stop": "1982-09-20T15:18:06Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "15357 days ago"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": "1983-09-12T12:22:47Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "15001 days ago"
+        },
+        {
+            "Start": "1983-09-12T12:22:47Z",
+            "Stop": "1983-09-12T12:36:03Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "15001 days ago"
+        },
+        {
+            "Start": "1983-09-12T12:36:03Z",
+            "Stop": "1983-09-12T13:04:01Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "15001 days ago"
+        },
+        {
+            "Start": "1983-09-12T13:04:01Z",
+            "Stop": "1983-09-12T13:17:51Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "15001 days ago"
+        },
+        {
+            "Start": "1983-09-12T13:17:51Z",
+            "Stop": "1983-09-12T13:43:39Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "15000 days ago"
+        },
+        {
+            "Start": "1983-09-12T13:43:39Z",
+            "Stop": "1983-09-12T13:54:33Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "15000 days ago"
+        },
+        {
+            "Start": "1983-09-19T11:32:18Z",
+            "Stop": "1983-09-19T12:09:33Z",
+            "Description": "Referral to cardiology service (procedure)",
+            "Duration": "1 days",
+            "Last": "14994 days ago"
+        },
+        {
+            "Start": "1983-09-23T06:09:33Z",
+            "Stop": "1983-09-23T06:59:55Z",
+            "Description": "Consultation for treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "14990 days ago"
+        },
+        {
+            "Start": "1983-09-23T06:59:55Z",
+            "Stop": "1983-09-23T08:04:53Z",
+            "Description": "Angiography of coronary artery (procedure)",
+            "Duration": "1 days",
+            "Last": "14990 days ago"
+        },
+        {
+            "Start": "1983-09-23T08:04:53Z",
+            "Stop": "1983-09-23T10:05:53Z",
+            "Description": "Post anesthesia care management (procedure)",
+            "Duration": "1 days",
+            "Last": "14990 days ago"
+        },
+        {
+            "Start": "1983-09-23T10:05:53Z",
+            "Stop": "1983-09-23T10:18:05Z",
+            "Description": "Referral to cardiology service (procedure)",
+            "Duration": "1 days",
+            "Last": "14990 days ago"
+        },
+        {
+            "Start": "1983-09-24T10:18:05Z",
+            "Stop": "1983-09-24T10:59:16Z",
+            "Description": "Percutaneous coronary intervention (procedure)",
+            "Duration": "1 days",
+            "Last": "14989 days ago"
+        },
+        {
+            "Start": "1983-10-03T11:32:18Z",
+            "Stop": "1983-10-03T11:37:18Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "14980 days ago"
+        },
+        {
+            "Start": "1983-10-03T11:37:18Z",
+            "Stop": "1983-10-03T11:51:46Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "14980 days ago"
+        },
+        {
+            "Start": "1983-10-03T11:51:46Z",
+            "Stop": "1983-10-03T12:32:17Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "14980 days ago"
+        },
+        {
+            "Start": "1983-10-03T12:32:17Z",
+            "Stop": "1983-10-03T12:41:25Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "14980 days ago"
+        },
+        {
+            "Start": "1983-10-03T12:41:25Z",
+            "Stop": "1983-10-03T13:18:00Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "14980 days ago"
+        },
+        {
+            "Start": "1983-10-03T13:18:00Z",
+            "Stop": "1983-10-03T13:28:18Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "14979 days ago"
+        },
+        {
+            "Start": "1984-07-28T12:44:10Z",
+            "Stop": "1984-07-28T13:20:05Z",
+            "Description": "Colonoscopy",
+            "Duration": "1 days",
+            "Last": "14681 days ago"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": "1984-09-17T11:47:18Z",
+            "Description": "Bone density scan (procedure)",
+            "Duration": "1 days",
+            "Last": "14630 days ago"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": "1984-09-17T12:23:09Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "14630 days ago"
+        },
+        {
+            "Start": "1984-09-17T12:23:09Z",
+            "Stop": "1984-09-17T12:43:30Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "14630 days ago"
+        },
+        {
+            "Start": "1984-09-17T12:43:30Z",
+            "Stop": "1984-09-17T13:15:16Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "14630 days ago"
+        },
+        {
+            "Start": "1984-09-17T13:15:16Z",
+            "Stop": "1984-09-17T13:29:45Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "14629 days ago"
+        },
+        {
+            "Start": "1984-09-17T13:29:45Z",
+            "Stop": "1984-09-17T13:55:14Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "14629 days ago"
+        },
+        {
+            "Start": "1984-09-17T13:55:14Z",
+            "Stop": "1984-09-17T14:07:56Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "14629 days ago"
+        },
+        {
+            "Start": "1984-09-17T14:07:56Z",
+            "Stop": "1984-09-17T14:28:41Z",
+            "Description": "Screening for drug abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "14629 days ago"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": "1985-09-23T12:18:08Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "14259 days ago"
+        },
+        {
+            "Start": "1985-09-23T12:18:08Z",
+            "Stop": "1985-09-23T12:33:09Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "14259 days ago"
+        },
+        {
+            "Start": "1985-09-23T12:33:09Z",
+            "Stop": "1985-09-23T12:43:32Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "14259 days ago"
+        },
+        {
+            "Start": "1985-09-23T12:43:32Z",
+            "Stop": "1985-09-23T13:06:32Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "14259 days ago"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": "1986-09-29T12:21:09Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "13888 days ago"
+        },
+        {
+            "Start": "1986-09-29T12:21:09Z",
+            "Stop": "1986-09-29T12:41:34Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "13888 days ago"
+        },
+        {
+            "Start": "1986-09-29T12:41:34Z",
+            "Stop": "1986-09-29T13:05:49Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "13888 days ago"
+        },
+        {
+            "Start": "1986-09-29T13:05:49Z",
+            "Stop": "1986-09-29T13:50:03Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "13887 days ago"
+        },
+        {
+            "Start": "1986-09-29T13:50:03Z",
+            "Stop": "1986-09-29T14:02:16Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "13887 days ago"
+        },
+        {
+            "Start": "1986-09-29T14:02:16Z",
+            "Stop": "1986-09-29T14:26:47Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "13887 days ago"
+        },
+        {
+            "Start": "1986-09-29T14:26:47Z",
+            "Stop": "1986-09-29T14:40:00Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "13887 days ago"
+        },
+        {
+            "Start": "1986-09-29T14:40:00Z",
+            "Stop": "1986-09-29T15:07:05Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "13887 days ago"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": "1987-10-05T12:05:16Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "13517 days ago"
+        },
+        {
+            "Start": "1987-10-05T12:05:16Z",
+            "Stop": "1987-10-05T12:23:40Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "13517 days ago"
+        },
+        {
+            "Start": "1987-10-05T12:23:40Z",
+            "Stop": "1987-10-05T12:33:54Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "13517 days ago"
+        },
+        {
+            "Start": "1987-10-05T12:33:54Z",
+            "Stop": "1987-10-05T12:55:28Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "13517 days ago"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": "1988-10-10T12:25:28Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "13146 days ago"
+        },
+        {
+            "Start": "1988-10-10T12:25:28Z",
+            "Stop": "1988-10-10T12:42:17Z",
+            "Description": "Assessment of anxiety (procedure)",
+            "Duration": "1 days",
+            "Last": "13146 days ago"
+        },
+        {
+            "Start": "1988-10-10T12:42:17Z",
+            "Stop": "1988-10-10T13:07:35Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "13146 days ago"
+        },
+        {
+            "Start": "1988-10-10T13:07:35Z",
+            "Stop": "1988-10-10T13:33:42Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "13145 days ago"
+        },
+        {
+            "Start": "1988-10-10T13:33:42Z",
+            "Stop": "1988-10-10T13:44:41Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "13145 days ago"
+        },
+        {
+            "Start": "1988-10-10T13:44:41Z",
+            "Stop": "1988-10-10T14:13:32Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "13145 days ago"
+        },
+        {
+            "Start": "1988-10-10T14:13:32Z",
+            "Stop": "1988-10-10T14:24:33Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "13145 days ago"
+        },
+        {
+            "Start": "1988-10-24T11:32:18Z",
+            "Stop": "1988-10-24T11:56:12Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "13132 days ago"
+        },
+        {
+            "Start": "1988-10-24T11:56:12Z",
+            "Stop": "1988-10-24T12:37:20Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "13132 days ago"
+        },
+        {
+            "Start": "1988-10-24T12:37:20Z",
+            "Stop": "1988-10-24T13:05:09Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "13132 days ago"
+        },
+        {
+            "Start": "1988-10-24T13:05:09Z",
+            "Stop": "1988-10-24T13:48:27Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "13131 days ago"
+        },
+        {
+            "Start": "1988-10-24T13:48:27Z",
+            "Stop": "1988-10-24T14:18:27Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "13131 days ago"
+        },
+        {
+            "Start": "1988-10-24T13:48:27Z",
+            "Stop": "1988-10-24T14:43:27Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "13131 days ago"
+        },
+        {
+            "Start": "1988-10-24T14:43:27Z",
+            "Stop": "1988-10-24T14:59:06Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "13131 days ago"
+        },
+        {
+            "Start": "1989-07-28T13:20:05Z",
+            "Stop": "1989-07-28T13:49:55Z",
+            "Description": "Colonoscopy",
+            "Duration": "1 days",
+            "Last": "12854 days ago"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": "1989-10-16T12:17:54Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "12775 days ago"
+        },
+        {
+            "Start": "1989-10-16T12:17:54Z",
+            "Stop": "1989-10-16T12:36:58Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "12775 days ago"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": "1990-10-22T12:05:41Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "12404 days ago"
+        },
+        {
+            "Start": "1990-10-22T12:05:41Z",
+            "Stop": "1990-10-22T12:29:54Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "12404 days ago"
+        },
+        {
+            "Start": "1990-10-22T12:29:54Z",
+            "Stop": "1990-10-22T12:56:35Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "12404 days ago"
+        },
+        {
+            "Start": "1990-10-22T12:56:35Z",
+            "Stop": "1990-10-22T13:09:15Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "12404 days ago"
+        },
+        {
+            "Start": "1990-10-22T13:09:15Z",
+            "Stop": "1990-10-22T13:31:48Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "12403 days ago"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": "1991-04-01T11:37:43Z",
+            "Description": "Electrocardiographic procedure",
+            "Duration": "1 days",
+            "Last": "12243 days ago"
+        },
+        {
+            "Start": "1991-04-01T11:37:43Z",
+            "Stop": "1991-04-01T12:12:38Z",
+            "Description": "Cardiovascular stress testing (procedure)",
+            "Duration": "1 days",
+            "Last": "12243 days ago"
+        },
+        {
+            "Start": "1991-04-01T12:12:38Z",
+            "Stop": "1991-04-01T12:40:59Z",
+            "Description": "Assessment using New York Heart Association Classification (procedure)",
+            "Duration": "1 days",
+            "Last": "12243 days ago"
+        },
+        {
+            "Start": "1991-04-21T12:40:59Z",
+            "Stop": "1991-04-21T13:10:59Z",
+            "Description": "Echocardiography (procedure)",
+            "Duration": "1 days",
+            "Last": "12223 days ago"
+        },
+        {
+            "Start": "1991-04-21T12:40:59Z",
+            "Stop": "1991-04-21T12:55:59Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "12223 days ago"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": "1991-10-18T12:55:59Z",
+            "Description": "Oxygen administration by mask (procedure)",
+            "Duration": "1 days",
+            "Last": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": "1991-10-18T12:55:59Z",
+            "Description": "Placing subject in prone position (procedure)",
+            "Duration": "1 days",
+            "Last": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": "1991-10-18T13:10:59Z",
+            "Description": "Plain chest X-ray (procedure)",
+            "Duration": "1 days",
+            "Last": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": "1991-10-18T12:55:59Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": "1991-10-18T12:50:40Z",
+            "Description": "Electrocardiographic procedure",
+            "Duration": "1 days",
+            "Last": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-18T12:50:40Z",
+            "Stop": "1991-10-18T13:05:40Z",
+            "Description": "Oxygen administration by mask (procedure)",
+            "Duration": "1 days",
+            "Last": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-18T12:50:40Z",
+            "Stop": "1991-10-18T13:05:40Z",
+            "Description": "Placing subject in prone position (procedure)",
+            "Duration": "1 days",
+            "Last": "12043 days ago"
+        },
+        {
+            "Start": "1991-10-19T12:50:40Z",
+            "Stop": "1991-10-19T13:05:40Z",
+            "Description": "Oxygen administration by mask (procedure)",
+            "Duration": "1 days",
+            "Last": "12042 days ago"
+        },
+        {
+            "Start": "1991-10-19T12:50:40Z",
+            "Stop": "1991-10-19T13:05:40Z",
+            "Description": "Placing subject in prone position (procedure)",
+            "Duration": "1 days",
+            "Last": "12042 days ago"
+        },
+        {
+            "Start": "1991-10-20T12:50:40Z",
+            "Stop": "1991-10-20T13:05:40Z",
+            "Description": "Oxygen administration by mask (procedure)",
+            "Duration": "1 days",
+            "Last": "12041 days ago"
+        },
+        {
+            "Start": "1991-10-20T12:50:40Z",
+            "Stop": "1991-10-20T13:05:40Z",
+            "Description": "Placing subject in prone position (procedure)",
+            "Duration": "1 days",
+            "Last": "12041 days ago"
+        },
+        {
+            "Start": "1991-10-21T12:50:40Z",
+            "Stop": "1991-10-21T13:05:40Z",
+            "Description": "Oxygen administration by mask (procedure)",
+            "Duration": "1 days",
+            "Last": "12040 days ago"
+        },
+        {
+            "Start": "1991-10-21T12:50:40Z",
+            "Stop": "1991-10-21T13:05:40Z",
+            "Description": "Placing subject in prone position (procedure)",
+            "Duration": "1 days",
+            "Last": "12040 days ago"
+        }
+    ],
+    "Vital Signs": [
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "93 kg"
+        },
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "29.81 kg/m2"
+        },
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "90 /min"
+        },
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.8 kg"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.41 kg/m2"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "85 /min"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.43 kg/m2"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "83 /min"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.43 kg/m2"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "79 /min"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.43 kg/m2"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "71 /min"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.43 kg/m2"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "95 /min"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "16 /min"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.43 kg/m2"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "99 /min"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.43 kg/m2"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "75 /min"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "176.6 cm"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "30.43 kg/m2"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "62 /min"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "1991-04-01T11:32:18Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "Oxygen saturation in Arterial blood",
+            "Value": "87 %"
+        },
+        {
+            "Start": "1991-10-18T12:40:59Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1991-10-18T12:50:40Z",
+            "Stop": null,
+            "Description": "Oxygen saturation in Arterial blood",
+            "Value": "87 %"
+        },
+        {
+            "Start": "1991-10-19T00:50:40Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1991-10-19T12:50:40Z",
+            "Stop": null,
+            "Description": "Oxygen saturation in Arterial blood",
+            "Value": "87 %"
+        },
+        {
+            "Start": "1991-10-20T00:50:40Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1991-10-20T12:50:40Z",
+            "Stop": null,
+            "Description": "Oxygen saturation in Arterial blood",
+            "Value": "87 %"
+        },
+        {
+            "Start": "1991-10-21T00:50:40Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        },
+        {
+            "Start": "1991-10-21T12:50:40Z",
+            "Stop": null,
+            "Description": "Oxygen saturation in Arterial blood",
+            "Value": "77 %"
+        },
+        {
+            "Start": "1991-10-22T00:50:40Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "94.9 kg"
+        }
+    ],
+    "Immunizations": [
+        {
+            "Start": "1982-09-06T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1983-09-12T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1984-09-17T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1985-09-23T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1986-09-29T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1987-10-05T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1988-10-10T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1989-10-16T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "1990-10-22T11:32:18Z",
+            "Stop": null,
+            "Description": "pneumococcal polysaccharide vaccine, 23 valent",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ]
+}

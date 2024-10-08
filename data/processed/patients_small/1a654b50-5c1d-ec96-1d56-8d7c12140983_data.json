@@ -1,0 +1,1330 @@
+{
+    "Patient ID": "1a654b50-5c1d-ec96-1d56-8d7c12140983",
+    "Given Name": "Andra606",
+    "Gender": "F",
+    "Birth Time": "20100325105620",
+    "Age": 14,
+    "Race": "white",
+    "Ethnic Group": "non-hispanic",
+    "Language": "en-US",
+    "Medications": [
+        {
+            "Start": "2015-03-12T13:27:59Z",
+            "Stop": "2015-03-12T13:27:59Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "3497 days ago"
+        },
+        {
+            "Start": "2015-04-04T10:56:20Z",
+            "Stop": "2015-04-18T10:56:20Z",
+            "Description": "Ibuprofen 100 MG Oral Tablet",
+            "Duration of Usage": "15 days",
+            "Last Usage": "3460 days ago"
+        },
+        {
+            "Start": "2016-03-17T13:56:46Z",
+            "Stop": "2016-03-17T13:56:46Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "3125 days ago"
+        },
+        {
+            "Start": "2017-12-18T08:56:20Z",
+            "Stop": "2017-12-28T16:56:20Z",
+            "Description": "Penicillin V Potassium 250 MG Oral Tablet",
+            "Duration of Usage": "11 days",
+            "Last Usage": "2474 days ago"
+        },
+        {
+            "Start": "2019-11-05T09:56:20Z",
+            "Stop": "2019-11-16T09:56:20Z",
+            "Description": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet",
+            "Duration of Usage": "12 days",
+            "Last Usage": "1787 days ago"
+        },
+        {
+            "Start": "2023-05-04T14:08:25Z",
+            "Stop": "2023-05-04T14:08:25Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "521 days ago"
+        },
+        {
+            "Start": "2023-05-17T23:13:37Z",
+            "Stop": "2023-06-02T23:13:37Z",
+            "Description": "Acetaminophen 325 MG Oral Tablet",
+            "Duration of Usage": "17 days",
+            "Last Usage": "492 days ago"
+        },
+        {
+            "Start": "2024-03-04T11:59:32Z",
+            "Stop": "2024-05-27T11:59:32Z",
+            "Description": "Ibuprofen 200 MG Oral Tablet",
+            "Duration of Usage": "85 days",
+            "Last Usage": "133 days ago"
+        }
+    ],
+    "Diagnostic Results": [
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-04-14T11:32:31Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-04-20T11:31:03Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-04-25T11:25:54Z",
+            "Stop": null,
+            "Description": "Morse Fall Scale panel",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-04-25T12:00:06Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ],
+    "Problems": [
+        {
+            "Start": "2014-02-27T10:56:20Z",
+            "Stop": "2016-03-10T10:56:20Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "743 days",
+            "Last": "3133 days ago"
+        },
+        {
+            "Start": "2014-08-31T10:56:20Z",
+            "Stop": "2015-03-05T10:56:20Z",
+            "Description": "Otitis media",
+            "Duration": "187 days",
+            "Last": "3504 days ago"
+        },
+        {
+            "Start": "2015-04-04T10:56:20Z",
+            "Stop": "2016-03-10T10:56:20Z",
+            "Description": "Otitis media",
+            "Duration": "342 days",
+            "Last": "3133 days ago"
+        },
+        {
+            "Start": "2016-03-17T13:21:07Z",
+            "Stop": "2016-03-17T13:56:46Z",
+            "Description": "Primary dental caries (disorder)",
+            "Duration": "1 days",
+            "Last": "3125 days ago"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": "2018-03-22T10:56:20Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "372 days",
+            "Last": "2391 days ago"
+        },
+        {
+            "Start": "2017-12-18T08:56:20Z",
+            "Stop": "2017-12-28T16:56:20Z",
+            "Description": "Streptococcal sore throat (disorder)",
+            "Duration": "11 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": "2021-04-08T10:56:20Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "743 days",
+            "Last": "1278 days ago"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": "2019-04-04T13:22:01Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "8 days",
+            "Last": "2013 days ago"
+        },
+        {
+            "Start": "2019-11-05T09:56:20Z",
+            "Stop": "2019-11-16T09:56:20Z",
+            "Description": "Viral sinusitis (disorder)",
+            "Duration": "12 days",
+            "Last": "1787 days ago"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": "2020-04-09T13:08:19Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "8 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": "2024-04-25T10:56:20Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "743 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2023-05-17T22:56:20Z",
+            "Stop": "2023-06-02T23:13:37Z",
+            "Description": "Acute bronchitis (disorder)",
+            "Duration": "17 days",
+            "Last": "492 days ago"
+        },
+        {
+            "Start": "2024-03-04T11:20:36Z",
+            "Stop": "2024-05-27T11:59:32Z",
+            "Description": "Fracture of bone (disorder)",
+            "Duration": "85 days",
+            "Last": "133 days ago"
+        },
+        {
+            "Start": "2024-03-04T11:20:36Z",
+            "Stop": "2024-05-27T11:59:32Z",
+            "Description": "Fracture of forearm",
+            "Duration": "85 days",
+            "Last": "133 days ago"
+        }
+    ],
+    "Surgeries": [
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": "2015-03-05T11:16:12Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "3504 days ago"
+        },
+        {
+            "Start": "2015-03-12T10:56:20Z",
+            "Stop": "2015-03-12T11:26:24Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "3497 days ago"
+        },
+        {
+            "Start": "2015-03-12T11:26:24Z",
+            "Stop": "2015-03-12T11:56:02Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "3497 days ago"
+        },
+        {
+            "Start": "2015-03-12T11:56:02Z",
+            "Stop": "2015-03-12T12:33:23Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3497 days ago"
+        },
+        {
+            "Start": "2015-03-12T12:33:23Z",
+            "Stop": "2015-03-12T12:46:04Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3497 days ago"
+        },
+        {
+            "Start": "2015-03-12T12:46:04Z",
+            "Stop": "2015-03-12T13:16:04Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "3497 days ago"
+        },
+        {
+            "Start": "2015-03-12T12:46:04Z",
+            "Stop": "2015-03-12T13:27:59Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "3497 days ago"
+        },
+        {
+            "Start": "2015-03-12T13:27:59Z",
+            "Stop": "2015-03-12T13:52:32Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "3496 days ago"
+        },
+        {
+            "Start": "2015-03-12T13:52:32Z",
+            "Stop": "2015-03-12T14:07:14Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "3496 days ago"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": "2016-03-10T11:11:20Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "3133 days ago"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": "2016-03-10T11:11:28Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "3133 days ago"
+        },
+        {
+            "Start": "2016-03-17T10:56:20Z",
+            "Stop": "2016-03-17T11:12:24Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "3126 days ago"
+        },
+        {
+            "Start": "2016-03-17T11:12:24Z",
+            "Stop": "2016-03-17T11:46:14Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "3126 days ago"
+        },
+        {
+            "Start": "2016-03-17T11:46:14Z",
+            "Stop": "2016-03-17T12:10:36Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3126 days ago"
+        },
+        {
+            "Start": "2016-03-17T12:10:36Z",
+            "Stop": "2016-03-17T12:38:48Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3126 days ago"
+        },
+        {
+            "Start": "2016-03-17T12:38:48Z",
+            "Stop": "2016-03-17T13:21:07Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "3126 days ago"
+        },
+        {
+            "Start": "2016-03-17T13:21:07Z",
+            "Stop": "2016-03-17T13:56:46Z",
+            "Description": "Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)",
+            "Duration": "1 days",
+            "Last": "3125 days ago"
+        },
+        {
+            "Start": "2016-03-17T13:56:46Z",
+            "Stop": "2016-03-17T14:27:29Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "3125 days ago"
+        },
+        {
+            "Start": "2016-03-17T14:27:29Z",
+            "Stop": "2016-03-17T14:43:17Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "3125 days ago"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": "2018-03-22T11:11:20Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2391 days ago"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": "2019-03-28T11:06:06Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2020 days ago"
+        },
+        {
+            "Start": "2019-04-04T10:56:20Z",
+            "Stop": "2019-04-04T11:22:51Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "2013 days ago"
+        },
+        {
+            "Start": "2019-04-04T11:22:51Z",
+            "Stop": "2019-04-04T11:53:47Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "2013 days ago"
+        },
+        {
+            "Start": "2019-04-04T11:53:47Z",
+            "Stop": "2019-04-04T12:18:05Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2013 days ago"
+        },
+        {
+            "Start": "2019-04-04T12:18:05Z",
+            "Stop": "2019-04-04T12:35:56Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2013 days ago"
+        },
+        {
+            "Start": "2019-04-04T12:35:56Z",
+            "Stop": "2019-04-04T13:05:56Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "2013 days ago"
+        },
+        {
+            "Start": "2019-04-04T12:35:56Z",
+            "Stop": "2019-04-04T13:22:01Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "2013 days ago"
+        },
+        {
+            "Start": "2019-04-04T13:22:01Z",
+            "Stop": "2019-04-04T13:35:13Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "2012 days ago"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": "2020-04-02T11:09:57Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "1649 days ago"
+        },
+        {
+            "Start": "2020-04-09T10:56:20Z",
+            "Stop": "2020-04-09T11:01:20Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2020-04-09T11:01:20Z",
+            "Stop": "2020-04-09T11:33:55Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2020-04-09T11:33:55Z",
+            "Stop": "2020-04-09T12:13:11Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2020-04-09T12:13:11Z",
+            "Stop": "2020-04-09T12:38:17Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2020-04-09T12:38:17Z",
+            "Stop": "2020-04-09T13:08:17Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2020-04-09T12:38:17Z",
+            "Stop": "2020-04-09T13:08:19Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2020-04-09T13:08:19Z",
+            "Stop": "2020-04-09T13:26:04Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "1642 days ago"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": "2021-04-08T11:11:20Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "1278 days ago"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": "2022-04-14T11:09:14Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "907 days ago"
+        },
+        {
+            "Start": "2022-04-14T11:09:14Z",
+            "Stop": "2022-04-14T11:32:31Z",
+            "Description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "907 days ago"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": "2023-04-20T11:06:31Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "536 days ago"
+        },
+        {
+            "Start": "2023-04-20T11:06:31Z",
+            "Stop": "2023-04-20T11:31:03Z",
+            "Description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "536 days ago"
+        },
+        {
+            "Start": "2023-04-20T11:31:03Z",
+            "Stop": "2023-04-20T11:43:45Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "536 days ago"
+        },
+        {
+            "Start": "2023-04-20T11:43:45Z",
+            "Stop": "2023-04-20T12:02:29Z",
+            "Description": "Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)",
+            "Duration": "1 days",
+            "Last": "536 days ago"
+        },
+        {
+            "Start": "2023-04-20T12:02:29Z",
+            "Stop": "2023-04-20T12:17:08Z",
+            "Description": "Anticipatory guidance (procedure)",
+            "Duration": "1 days",
+            "Last": "536 days ago"
+        },
+        {
+            "Start": "2023-04-20T12:17:08Z",
+            "Stop": "2023-04-20T12:23:08Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "536 days ago"
+        },
+        {
+            "Start": "2023-05-04T10:56:20Z",
+            "Stop": "2023-05-04T11:32:36Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "522 days ago"
+        },
+        {
+            "Start": "2023-05-04T11:32:36Z",
+            "Stop": "2023-05-04T12:03:58Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "522 days ago"
+        },
+        {
+            "Start": "2023-05-04T12:03:58Z",
+            "Stop": "2023-05-04T12:44:47Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "522 days ago"
+        },
+        {
+            "Start": "2023-05-04T12:44:47Z",
+            "Stop": "2023-05-04T13:11:26Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "522 days ago"
+        },
+        {
+            "Start": "2023-05-04T13:11:26Z",
+            "Stop": "2023-05-04T13:41:26Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "521 days ago"
+        },
+        {
+            "Start": "2023-05-04T13:11:26Z",
+            "Stop": "2023-05-04T14:08:25Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "521 days ago"
+        },
+        {
+            "Start": "2023-05-04T14:08:25Z",
+            "Stop": "2023-05-04T14:32:38Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "521 days ago"
+        },
+        {
+            "Start": "2023-05-04T14:32:38Z",
+            "Stop": "2023-05-04T14:47:12Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "521 days ago"
+        },
+        {
+            "Start": "2023-05-17T22:56:20Z",
+            "Stop": "2023-05-17T23:13:37Z",
+            "Description": "Measurement of respiratory function (procedure)",
+            "Duration": "1 days",
+            "Last": "508 days ago"
+        },
+        {
+            "Start": "2024-03-04T11:20:36Z",
+            "Stop": "2024-03-04T11:50:36Z",
+            "Description": "Upper arm X-ray",
+            "Duration": "1 days",
+            "Last": "217 days ago"
+        },
+        {
+            "Start": "2024-03-04T11:20:36Z",
+            "Stop": "2024-03-04T11:59:32Z",
+            "Description": "Bone immobilization",
+            "Duration": "1 days",
+            "Last": "217 days ago"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": "2024-04-25T11:11:20Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": "2024-04-25T11:25:54Z",
+            "Description": "Assessment using Morse Fall Scale (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-04-25T11:25:54Z",
+            "Stop": "2024-04-25T11:36:16Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-04-25T11:36:16Z",
+            "Stop": "2024-04-25T12:00:06Z",
+            "Description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-04-25T12:00:06Z",
+            "Stop": "2024-04-25T12:13:38Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-04-25T12:13:38Z",
+            "Stop": "2024-04-25T12:40:26Z",
+            "Description": "Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-04-25T12:40:26Z",
+            "Stop": "2024-04-25T12:54:16Z",
+            "Description": "Anticipatory guidance (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-04-25T12:54:16Z",
+            "Stop": "2024-04-25T13:07:53Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "165 days ago"
+        },
+        {
+            "Start": "2024-05-09T10:56:20Z",
+            "Stop": "2024-05-09T11:30:07Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "151 days ago"
+        },
+        {
+            "Start": "2024-05-09T11:30:07Z",
+            "Stop": "2024-05-09T12:14:31Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "151 days ago"
+        },
+        {
+            "Start": "2024-05-09T12:14:31Z",
+            "Stop": "2024-05-09T12:43:09Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "151 days ago"
+        },
+        {
+            "Start": "2024-05-09T12:43:09Z",
+            "Stop": "2024-05-09T13:30:21Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "150 days ago"
+        },
+        {
+            "Start": "2024-05-09T13:30:21Z",
+            "Stop": "2024-05-09T14:00:21Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "150 days ago"
+        },
+        {
+            "Start": "2024-05-09T13:30:21Z",
+            "Stop": "2024-05-09T14:17:29Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "150 days ago"
+        },
+        {
+            "Start": "2024-05-09T14:17:29Z",
+            "Stop": "2024-05-09T14:31:02Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "150 days ago"
+        }
+    ],
+    "Vital Signs": [
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "106.8 cm"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "20.1 kg"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "17.62 kg/m2"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "92.13623365376648 %"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "82 /min"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "113.8 cm"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "24.3 kg"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "18.75 kg/m2"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "94.90994653589968 %"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "82 /min"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "16 /min"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "120.5 cm"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "26.7 kg"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "18.36 kg/m2"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "90.38332648597121 %"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "77 /min"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2017-12-18T08:56:20Z",
+            "Stop": null,
+            "Description": "Body temperature",
+            "Value": "38.671689933626276 Cel"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "126.6 cm"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "30.4 kg"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "18.95 kg/m2"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "89.36099657742018 %"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "96 /min"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "132.3 cm"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "2 {score}"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "35.4 kg"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "20.22 kg/m2"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "90.61941316580473 %"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "89 /min"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "16 /min"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "137.4 cm"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "40.7 kg"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "21.57 kg/m2"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "91.79078263856259 %"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "66 /min"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "16 /min"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "143.3 cm"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "47.4 kg"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "23.07 kg/m2"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "92.97208216027344 %"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "78 /min"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "150.6 cm"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "55.5 kg"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "24.47 kg/m2"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "93.71114207459172 %"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "73 /min"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "156.5 cm"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "60.8 kg"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "24.81 kg/m2"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "92.42356008307917 %"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "63 /min"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2023-05-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "157.2 cm"
+        },
+        {
+            "Start": "2023-05-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2023-05-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "62.5 kg"
+        },
+        {
+            "Start": "2023-05-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "25.28 kg/m2"
+        },
+        {
+            "Start": "2023-05-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "93.07621611126119 %"
+        },
+        {
+            "Start": "2023-05-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "66 /min"
+        },
+        {
+            "Start": "2023-05-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "159.8 cm"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "67.8 kg"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "26.53 kg/m2"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "93.84712204904622 %"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "81 /min"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "16 /min"
+        }
+    ],
+    "Immunizations": [
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "varicella",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "IPV",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "DTaP",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-03-05T10:56:20Z",
+            "Stop": null,
+            "Description": "MMR",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-03-10T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-03-16T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2018-03-22T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2019-03-28T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-04-02T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Tdap",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "HPV, quadrivalent",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-04-08T10:56:20Z",
+            "Stop": null,
+            "Description": "meningococcal MCV4P",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-04-14T10:56:20Z",
+            "Stop": null,
+            "Description": "HPV, quadrivalent",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-05-05T10:56:20Z",
+            "Stop": null,
+            "Description": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2022-05-26T10:56:20Z",
+            "Stop": null,
+            "Description": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-04-20T10:56:20Z",
+            "Stop": null,
+            "Description": "HPV, quadrivalent",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2024-04-25T10:56:20Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ]
+}

@@ -1,0 +1,1934 @@
+{
+    "Patient ID": "0d74120f-5a80-be1b-a91d-09bde798b179",
+    "Given Name": "Rutha66",
+    "Gender": "F",
+    "Birth Time": "19981016020326",
+    "Age": 25,
+    "Race": "white",
+    "Ethnic Group": "non-hispanic",
+    "Language": "en-US",
+    "Medications": [
+        {
+            "Start": "2014-12-12T05:24:02Z",
+            "Stop": "2014-12-12T05:24:02Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "3587 days ago"
+        },
+        {
+            "Start": "2015-09-30T02:03:26Z",
+            "Stop": "2016-09-24T02:03:26Z",
+            "Description": "Natazia 28 Day Pack",
+            "Duration of Usage": "361 days",
+            "Last Usage": "2935 days ago"
+        },
+        {
+            "Start": "2015-12-18T05:26:48Z",
+            "Stop": "2015-12-18T05:26:48Z",
+            "Description": "sodium fluoride 0.0272 MG/MG Oral Gel",
+            "Duration of Usage": "1 days",
+            "Last Usage": "3216 days ago"
+        },
+        {
+            "Start": "2016-04-05T03:37:50Z",
+            "Stop": "2016-04-05T12:37:50Z",
+            "Description": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule",
+            "Duration of Usage": "1 days",
+            "Last Usage": "3107 days ago"
+        },
+        {
+            "Start": "2016-09-24T02:03:26Z",
+            "Stop": "2017-09-19T02:03:26Z",
+            "Description": "Errin 28 Day Pack",
+            "Duration of Usage": "361 days",
+            "Last Usage": "2575 days ago"
+        },
+        {
+            "Start": "2016-12-16T03:17:50Z",
+            "Stop": null,
+            "Description": "ferrous sulfate 325 MG Oral Tablet",
+            "Duration of Usage": null,
+            "Last Usage": "Currently used"
+        },
+        {
+            "Start": "2017-09-19T02:03:26Z",
+            "Stop": "2018-09-14T02:03:26Z",
+            "Description": "Seasonique 91 Day Pack",
+            "Duration of Usage": "361 days",
+            "Last Usage": "2215 days ago"
+        },
+        {
+            "Start": "2019-09-09T02:03:26Z",
+            "Stop": "2020-09-03T02:03:26Z",
+            "Description": "Trinessa 28 Day Pack",
+            "Duration of Usage": "361 days",
+            "Last Usage": "1495 days ago"
+        },
+        {
+            "Start": "2020-09-03T02:03:26Z",
+            "Stop": "2021-08-29T02:27:40Z",
+            "Description": "Etonogestrel 68 MG Drug Implant",
+            "Duration of Usage": "361 days",
+            "Last Usage": "1135 days ago"
+        }
+    ],
+    "Diagnostic Results": [
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-28T02:38:58Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-12-04T02:41:20Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-04-05T03:27:50Z",
+            "Stop": null,
+            "Description": "Urinalysis macro (dipstick) panel - Urine",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-12-09T03:17:36Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-15T03:20:02Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-15T03:58:55Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "CBC panel - Blood by Automated count",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T03:41:48Z",
+            "Stop": null,
+            "Description": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T04:13:32Z",
+            "Stop": null,
+            "Description": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T04:54:37Z",
+            "Stop": null,
+            "Description": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ],
+    "Problems": [
+        {
+            "Start": "2013-07-26T02:03:26Z",
+            "Stop": "2015-12-04T02:03:26Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "862 days",
+            "Last": "3230 days ago"
+        },
+        {
+            "Start": "2015-12-04T02:41:20Z",
+            "Stop": "2015-12-18T04:59:10Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "15 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T04:59:10Z",
+            "Stop": "2015-12-18T05:26:48Z",
+            "Description": "Fractured dental filling (finding)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2016-03-04T02:03:26Z",
+            "Stop": "2016-05-08T02:03:26Z",
+            "Description": "Concussion injury of brain (disorder)",
+            "Duration": "66 days",
+            "Last": "3074 days ago"
+        },
+        {
+            "Start": "2016-03-04T02:03:26Z",
+            "Stop": "2016-05-08T02:03:26Z",
+            "Description": "Concussion with no loss of consciousness",
+            "Duration": "66 days",
+            "Last": "3074 days ago"
+        },
+        {
+            "Start": "2016-04-05T02:03:26Z",
+            "Stop": "2016-04-05T12:37:50Z",
+            "Description": "Acute infective cystitis (disorder)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": "2016-12-09T02:03:26Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "2859 days ago"
+        },
+        {
+            "Start": "2016-12-09T02:51:21Z",
+            "Stop": null,
+            "Description": "Served in armed forces (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-12-09T02:51:21Z",
+            "Stop": null,
+            "Description": "Received higher education (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-12-09T02:51:21Z",
+            "Stop": "2020-12-18T02:58:02Z",
+            "Description": "Part-time employment (finding)",
+            "Duration": "1471 days",
+            "Last": "1389 days ago"
+        },
+        {
+            "Start": "2016-12-09T02:51:21Z",
+            "Stop": null,
+            "Description": "Lack of access to transportation (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2017-07-14T03:17:50Z",
+            "Description": "Normal pregnancy",
+            "Duration": "211 days",
+            "Last": "2642 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2017-07-14T03:17:50Z",
+            "Description": "Anemia (disorder)",
+            "Duration": "211 days",
+            "Last": "2642 days ago"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": "2017-12-15T02:03:26Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T02:46:27Z",
+            "Stop": null,
+            "Description": "Stress (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-15T03:58:55Z",
+            "Stop": "2017-12-29T04:21:24Z",
+            "Description": "Gingivitis (disorder)",
+            "Duration": "15 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2019-02-15T05:03:26Z",
+            "Stop": "2019-02-23T18:03:26Z",
+            "Description": "Acute viral pharyngitis (disorder)",
+            "Duration": "9 days",
+            "Last": "2052 days ago"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": "2023-12-22T02:03:26Z",
+            "Description": "Medication review due (situation)",
+            "Duration": "1100 days",
+            "Last": "290 days ago"
+        },
+        {
+            "Start": "2020-12-18T02:58:02Z",
+            "Stop": null,
+            "Description": "Full-time employment (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T02:58:02Z",
+            "Stop": null,
+            "Description": "Transport problem (finding)",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-12-29T02:03:26Z",
+            "Description": "Normal pregnancy",
+            "Duration": "218 days",
+            "Last": "283 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Normal pregnancy",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ],
+    "Surgeries": [
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": "2014-11-28T02:16:54Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "3601 days ago"
+        },
+        {
+            "Start": "2014-11-28T02:16:54Z",
+            "Stop": "2014-11-28T02:38:58Z",
+            "Description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "3601 days ago"
+        },
+        {
+            "Start": "2014-11-28T02:38:58Z",
+            "Stop": "2014-11-28T02:52:37Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "3601 days ago"
+        },
+        {
+            "Start": "2014-11-28T02:52:37Z",
+            "Stop": "2014-11-28T03:13:51Z",
+            "Description": "Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)",
+            "Duration": "1 days",
+            "Last": "3601 days ago"
+        },
+        {
+            "Start": "2014-11-28T03:13:51Z",
+            "Stop": "2014-11-28T03:27:06Z",
+            "Description": "Anticipatory guidance (procedure)",
+            "Duration": "1 days",
+            "Last": "3601 days ago"
+        },
+        {
+            "Start": "2014-11-28T03:27:06Z",
+            "Stop": "2014-11-28T03:38:14Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "3601 days ago"
+        },
+        {
+            "Start": "2014-12-12T02:03:26Z",
+            "Stop": "2014-12-12T02:35:31Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "3587 days ago"
+        },
+        {
+            "Start": "2014-12-12T02:35:31Z",
+            "Stop": "2014-12-12T03:07:44Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "3587 days ago"
+        },
+        {
+            "Start": "2014-12-12T03:07:44Z",
+            "Stop": "2014-12-12T04:05:05Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3587 days ago"
+        },
+        {
+            "Start": "2014-12-12T04:05:05Z",
+            "Stop": "2014-12-12T04:33:06Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3587 days ago"
+        },
+        {
+            "Start": "2014-12-12T04:33:06Z",
+            "Stop": "2014-12-12T05:24:02Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "3587 days ago"
+        },
+        {
+            "Start": "2014-12-12T05:24:02Z",
+            "Stop": "2014-12-12T05:54:31Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "3587 days ago"
+        },
+        {
+            "Start": "2014-12-12T05:54:31Z",
+            "Stop": "2014-12-12T06:19:03Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "3587 days ago"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": "2015-12-04T02:18:26Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "3230 days ago"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": "2015-12-04T02:17:32Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "3230 days ago"
+        },
+        {
+            "Start": "2015-12-04T02:17:32Z",
+            "Stop": "2015-12-04T02:41:20Z",
+            "Description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "3230 days ago"
+        },
+        {
+            "Start": "2015-12-04T02:41:20Z",
+            "Stop": "2015-12-04T02:51:41Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "3230 days ago"
+        },
+        {
+            "Start": "2015-12-18T02:03:26Z",
+            "Stop": "2015-12-18T02:27:18Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T02:27:18Z",
+            "Stop": "2015-12-18T02:51:35Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T02:51:35Z",
+            "Stop": "2015-12-18T03:22:55Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T03:22:55Z",
+            "Stop": "2015-12-18T03:59:19Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T03:59:19Z",
+            "Stop": "2015-12-18T04:29:19Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T03:59:19Z",
+            "Stop": "2015-12-18T04:59:10Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T04:59:10Z",
+            "Stop": "2015-12-18T05:26:48Z",
+            "Description": "Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T05:26:48Z",
+            "Stop": "2015-12-18T06:02:40Z",
+            "Description": "Dental fluoride treatment (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2015-12-18T06:02:40Z",
+            "Stop": "2015-12-18T06:30:26Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "3216 days ago"
+        },
+        {
+            "Start": "2016-04-05T02:03:26Z",
+            "Stop": "2016-04-05T02:14:11Z",
+            "Description": "History taking (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-04-05T02:14:11Z",
+            "Stop": "2016-04-05T02:27:50Z",
+            "Description": "Discussion about signs and symptoms (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-04-05T02:27:50Z",
+            "Stop": "2016-04-05T02:42:50Z",
+            "Description": "History and physical examination, limited (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-04-05T02:42:50Z",
+            "Stop": "2016-04-05T02:57:50Z",
+            "Description": "Evaluation procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-04-05T02:57:50Z",
+            "Stop": "2016-04-05T03:07:50Z",
+            "Description": "Discussion about pregnancy (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-04-05T03:07:50Z",
+            "Stop": "2016-04-05T03:17:50Z",
+            "Description": "Urine specimen collection (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-04-05T03:17:50Z",
+            "Stop": "2016-04-05T03:27:50Z",
+            "Description": "Urinalysis with reflex to microscopy and culture (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-04-05T03:27:50Z",
+            "Stop": "2016-04-05T03:37:50Z",
+            "Description": "Antibiotic therapy (procedure)",
+            "Duration": "1 days",
+            "Last": "3107 days ago"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": "2016-12-09T02:18:26Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2859 days ago"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": "2016-12-09T02:51:21Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2859 days ago"
+        },
+        {
+            "Start": "2016-12-09T02:51:21Z",
+            "Stop": "2016-12-09T03:17:36Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "2859 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Standard pregnancy test",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Ultrasound scan for fetal viability",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Blood group typing (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Hepatitis B Surface Antigen Measurement",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Human immunodeficiency virus antigen test",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Chlamydia antigen test",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Gonorrhea infection titer test (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Syphilis infectious titer test (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Urine culture",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Cytopathology procedure, preparation of smear, genital source",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Urine screening test for diabetes",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Hepatitis C antibody, confirmatory test",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Rubella screening",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Measurement of Varicella-zoster virus antibody",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Skin test for tuberculosis, Tine test (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Urine protein test",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:18:26Z",
+            "Description": "Physical examination procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:03:26Z",
+            "Stop": "2016-12-16T02:33:26Z",
+            "Description": "Peripheral blood smear interpretation",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:33:26Z",
+            "Stop": "2016-12-16T02:48:35Z",
+            "Description": "Review of systems (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:48:35Z",
+            "Stop": "2016-12-16T02:58:04Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2016-12-16T02:58:04Z",
+            "Stop": "2016-12-16T03:17:50Z",
+            "Description": "Brief general examination (procedure)",
+            "Duration": "1 days",
+            "Last": "2852 days ago"
+        },
+        {
+            "Start": "2017-01-13T03:17:50Z",
+            "Stop": "2017-01-13T03:32:50Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-01-13T03:17:50Z",
+            "Stop": "2017-01-13T03:32:50Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-01-13T03:17:50Z",
+            "Stop": "2017-01-13T03:32:50Z",
+            "Description": "Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure)",
+            "Duration": "1 days",
+            "Last": "2824 days ago"
+        },
+        {
+            "Start": "2017-02-10T03:17:50Z",
+            "Stop": "2017-02-10T03:32:50Z",
+            "Description": "Fetal anatomy study",
+            "Duration": "1 days",
+            "Last": "2796 days ago"
+        },
+        {
+            "Start": "2017-02-10T03:17:50Z",
+            "Stop": "2017-02-10T03:32:50Z",
+            "Description": "AFP test - antenatal",
+            "Duration": "1 days",
+            "Last": "2796 days ago"
+        },
+        {
+            "Start": "2017-02-10T03:17:50Z",
+            "Stop": "2017-02-10T03:32:50Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2796 days ago"
+        },
+        {
+            "Start": "2017-02-10T03:17:50Z",
+            "Stop": "2017-02-10T03:32:50Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2796 days ago"
+        },
+        {
+            "Start": "2017-03-10T03:17:50Z",
+            "Stop": "2017-03-10T03:32:50Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2768 days ago"
+        },
+        {
+            "Start": "2017-03-10T03:17:50Z",
+            "Stop": "2017-03-10T03:32:50Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2768 days ago"
+        },
+        {
+            "Start": "2017-04-07T03:17:50Z",
+            "Stop": "2017-04-07T03:32:50Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2740 days ago"
+        },
+        {
+            "Start": "2017-04-07T03:17:50Z",
+            "Stop": "2017-04-07T03:32:50Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2740 days ago"
+        },
+        {
+            "Start": "2017-05-05T03:17:50Z",
+            "Stop": "2017-05-05T03:32:50Z",
+            "Description": "Antenatal RhD antibody screening",
+            "Duration": "1 days",
+            "Last": "2712 days ago"
+        },
+        {
+            "Start": "2017-05-05T03:17:50Z",
+            "Stop": "2017-05-05T03:32:50Z",
+            "Description": "Passive immunization (procedure)",
+            "Duration": "1 days",
+            "Last": "2712 days ago"
+        },
+        {
+            "Start": "2017-05-05T03:17:50Z",
+            "Stop": "2017-05-05T03:32:50Z",
+            "Description": "Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",
+            "Duration": "1 days",
+            "Last": "2712 days ago"
+        },
+        {
+            "Start": "2017-05-05T03:17:50Z",
+            "Stop": "2017-05-05T03:32:50Z",
+            "Description": "Administration of diphtheria, pertussis, and tetanus vaccine",
+            "Duration": "1 days",
+            "Last": "2712 days ago"
+        },
+        {
+            "Start": "2017-05-05T03:17:50Z",
+            "Stop": "2017-05-05T03:32:50Z",
+            "Description": "Urine screening for glucose",
+            "Duration": "1 days",
+            "Last": "2712 days ago"
+        },
+        {
+            "Start": "2017-05-05T03:17:50Z",
+            "Stop": "2017-05-05T03:32:50Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2712 days ago"
+        },
+        {
+            "Start": "2017-05-05T03:17:50Z",
+            "Stop": "2017-05-05T03:32:50Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2712 days ago"
+        },
+        {
+            "Start": "2017-06-02T03:17:50Z",
+            "Stop": "2017-06-02T03:32:50Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2684 days ago"
+        },
+        {
+            "Start": "2017-06-02T03:17:50Z",
+            "Stop": "2017-06-02T03:32:50Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2684 days ago"
+        },
+        {
+            "Start": "2017-06-30T03:17:50Z",
+            "Stop": "2017-06-30T03:32:50Z",
+            "Description": "Streptococcus pneumoniae group B antigen assay",
+            "Duration": "1 days",
+            "Last": "2656 days ago"
+        },
+        {
+            "Start": "2017-06-30T03:17:50Z",
+            "Stop": "2017-06-30T03:32:50Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "2656 days ago"
+        },
+        {
+            "Start": "2017-06-30T03:17:50Z",
+            "Stop": "2017-06-30T03:32:50Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "2656 days ago"
+        },
+        {
+            "Start": "2017-07-14T03:17:50Z",
+            "Stop": "2017-07-14T03:32:50Z",
+            "Description": "Childbirth",
+            "Duration": "1 days",
+            "Last": "2642 days ago"
+        },
+        {
+            "Start": "2017-08-25T03:17:50Z",
+            "Stop": "2017-08-25T03:32:50Z",
+            "Description": "Passive immunization (procedure)",
+            "Duration": "1 days",
+            "Last": "2600 days ago"
+        },
+        {
+            "Start": "2017-08-25T03:17:50Z",
+            "Stop": "2017-08-25T03:32:50Z",
+            "Description": "Physical examination procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "2600 days ago"
+        },
+        {
+            "Start": "2017-08-25T03:17:50Z",
+            "Stop": "2017-08-25T03:32:50Z",
+            "Description": "Depression screening",
+            "Duration": "1 days",
+            "Last": "2600 days ago"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": "2017-12-15T02:18:26Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": "2017-12-15T02:46:27Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T02:46:27Z",
+            "Stop": "2017-12-15T02:57:14Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T02:57:14Z",
+            "Stop": "2017-12-15T03:20:02Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T03:20:02Z",
+            "Stop": "2017-12-15T03:31:57Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T03:31:57Z",
+            "Stop": "2017-12-15T03:58:55Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-15T03:58:55Z",
+            "Stop": "2017-12-15T04:15:08Z",
+            "Description": "Patient referral for dental care (procedure)",
+            "Duration": "1 days",
+            "Last": "2488 days ago"
+        },
+        {
+            "Start": "2017-12-29T02:03:26Z",
+            "Stop": "2017-12-29T02:08:26Z",
+            "Description": "Dental consultation and report (procedure)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-29T02:08:26Z",
+            "Stop": "2017-12-29T02:34:54Z",
+            "Description": "Dental care (regime/therapy)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-29T02:34:54Z",
+            "Stop": "2017-12-29T03:03:17Z",
+            "Description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-29T03:03:17Z",
+            "Stop": "2017-12-29T03:36:57Z",
+            "Description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-29T03:36:57Z",
+            "Stop": "2017-12-29T04:06:57Z",
+            "Description": "Dental X-ray bitewing (procedure)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-29T03:36:57Z",
+            "Stop": "2017-12-29T04:21:24Z",
+            "Description": "Examination of gingivae (procedure)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2017-12-29T04:21:24Z",
+            "Stop": "2017-12-29T04:28:29Z",
+            "Description": "Oral health education (procedure)",
+            "Duration": "1 days",
+            "Last": "2474 days ago"
+        },
+        {
+            "Start": "2020-09-03T02:03:26Z",
+            "Stop": "2020-09-03T02:27:40Z",
+            "Description": "Insertion of subcutaneous contraceptive",
+            "Duration": "1 days",
+            "Last": "1495 days ago"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": "2020-12-18T02:58:02Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "1389 days ago"
+        },
+        {
+            "Start": "2020-12-18T02:58:02Z",
+            "Stop": "2020-12-18T03:41:48Z",
+            "Description": "Screening for domestic abuse (procedure)",
+            "Duration": "1 days",
+            "Last": "1389 days ago"
+        },
+        {
+            "Start": "2020-12-18T03:41:48Z",
+            "Stop": "2020-12-18T03:51:59Z",
+            "Description": "Depression screening (procedure)",
+            "Duration": "1 days",
+            "Last": "1389 days ago"
+        },
+        {
+            "Start": "2020-12-18T03:51:59Z",
+            "Stop": "2020-12-18T04:13:32Z",
+            "Description": "Depression screening using Patient Health Questionnaire Two-Item score (procedure)",
+            "Duration": "1 days",
+            "Last": "1389 days ago"
+        },
+        {
+            "Start": "2020-12-18T04:13:32Z",
+            "Stop": "2020-12-18T04:27:47Z",
+            "Description": "Assessment of substance use (procedure)",
+            "Duration": "1 days",
+            "Last": "1389 days ago"
+        },
+        {
+            "Start": "2020-12-18T04:27:47Z",
+            "Stop": "2020-12-18T04:54:37Z",
+            "Description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+            "Duration": "1 days",
+            "Last": "1389 days ago"
+        },
+        {
+            "Start": "2023-04-07T02:03:26Z",
+            "Stop": "2023-04-07T02:39:46Z",
+            "Description": "Removal of subcutaneous contraceptive",
+            "Duration": "1 days",
+            "Last": "549 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Standard pregnancy test",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Ultrasound scan for fetal viability",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Blood group typing (procedure)",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Hepatitis B Surface Antigen Measurement",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Human immunodeficiency virus antigen test",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Chlamydia antigen test",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Gonorrhea infection titer test (procedure)",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Syphilis infectious titer test (procedure)",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Urine culture",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Cytopathology procedure, preparation of smear, genital source",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Urine screening test for diabetes",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Hepatitis C antibody, confirmatory test",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Rubella screening",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Measurement of Varicella-zoster virus antibody",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Skin test for tuberculosis, Tine test (procedure)",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Urine protein test",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-05-26T02:03:26Z",
+            "Stop": "2023-05-26T02:18:26Z",
+            "Description": "Physical examination procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "500 days ago"
+        },
+        {
+            "Start": "2023-06-23T02:03:26Z",
+            "Stop": "2023-06-23T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "472 days ago"
+        },
+        {
+            "Start": "2023-06-23T02:03:26Z",
+            "Stop": "2023-06-23T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "472 days ago"
+        },
+        {
+            "Start": "2023-06-23T02:03:26Z",
+            "Stop": "2023-06-23T02:18:26Z",
+            "Description": "Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure)",
+            "Duration": "1 days",
+            "Last": "472 days ago"
+        },
+        {
+            "Start": "2023-07-21T02:03:26Z",
+            "Stop": "2023-07-21T02:18:26Z",
+            "Description": "Fetal anatomy study",
+            "Duration": "1 days",
+            "Last": "444 days ago"
+        },
+        {
+            "Start": "2023-07-21T02:03:26Z",
+            "Stop": "2023-07-21T02:18:26Z",
+            "Description": "AFP test - antenatal",
+            "Duration": "1 days",
+            "Last": "444 days ago"
+        },
+        {
+            "Start": "2023-07-21T02:03:26Z",
+            "Stop": "2023-07-21T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "444 days ago"
+        },
+        {
+            "Start": "2023-07-21T02:03:26Z",
+            "Stop": "2023-07-21T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "444 days ago"
+        },
+        {
+            "Start": "2023-08-18T02:03:26Z",
+            "Stop": "2023-08-18T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "416 days ago"
+        },
+        {
+            "Start": "2023-08-18T02:03:26Z",
+            "Stop": "2023-08-18T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "416 days ago"
+        },
+        {
+            "Start": "2023-09-15T02:03:26Z",
+            "Stop": "2023-09-15T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "388 days ago"
+        },
+        {
+            "Start": "2023-09-15T02:03:26Z",
+            "Stop": "2023-09-15T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "388 days ago"
+        },
+        {
+            "Start": "2023-10-13T02:03:26Z",
+            "Stop": "2023-10-13T02:18:26Z",
+            "Description": "Antenatal RhD antibody screening",
+            "Duration": "1 days",
+            "Last": "360 days ago"
+        },
+        {
+            "Start": "2023-10-13T02:03:26Z",
+            "Stop": "2023-10-13T02:18:26Z",
+            "Description": "Passive immunization (procedure)",
+            "Duration": "1 days",
+            "Last": "360 days ago"
+        },
+        {
+            "Start": "2023-10-13T02:03:26Z",
+            "Stop": "2023-10-13T02:18:26Z",
+            "Description": "Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",
+            "Duration": "1 days",
+            "Last": "360 days ago"
+        },
+        {
+            "Start": "2023-10-13T02:03:26Z",
+            "Stop": "2023-10-13T02:18:26Z",
+            "Description": "Administration of diphtheria, pertussis, and tetanus vaccine",
+            "Duration": "1 days",
+            "Last": "360 days ago"
+        },
+        {
+            "Start": "2023-10-13T02:03:26Z",
+            "Stop": "2023-10-13T02:18:26Z",
+            "Description": "Urine screening for glucose",
+            "Duration": "1 days",
+            "Last": "360 days ago"
+        },
+        {
+            "Start": "2023-10-13T02:03:26Z",
+            "Stop": "2023-10-13T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "360 days ago"
+        },
+        {
+            "Start": "2023-10-13T02:03:26Z",
+            "Stop": "2023-10-13T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "360 days ago"
+        },
+        {
+            "Start": "2023-11-10T02:03:26Z",
+            "Stop": "2023-11-10T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "332 days ago"
+        },
+        {
+            "Start": "2023-11-10T02:03:26Z",
+            "Stop": "2023-11-10T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "332 days ago"
+        },
+        {
+            "Start": "2023-12-08T02:03:26Z",
+            "Stop": "2023-12-08T02:18:26Z",
+            "Description": "Streptococcus pneumoniae group B antigen assay",
+            "Duration": "1 days",
+            "Last": "304 days ago"
+        },
+        {
+            "Start": "2023-12-08T02:03:26Z",
+            "Stop": "2023-12-08T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "304 days ago"
+        },
+        {
+            "Start": "2023-12-08T02:03:26Z",
+            "Stop": "2023-12-08T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "304 days ago"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": "2023-12-22T02:18:26Z",
+            "Description": "Medication Reconciliation (procedure)",
+            "Duration": "1 days",
+            "Last": "290 days ago"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": "2023-12-22T02:49:29Z",
+            "Description": "Assessment of health and social care needs (procedure)",
+            "Duration": "1 days",
+            "Last": "290 days ago"
+        },
+        {
+            "Start": "2023-12-29T02:03:26Z",
+            "Stop": "2023-12-29T02:18:26Z",
+            "Description": "Epidural anesthesia",
+            "Duration": "1 days",
+            "Last": "283 days ago"
+        },
+        {
+            "Start": "2023-12-29T02:03:26Z",
+            "Stop": "2023-12-29T02:18:26Z",
+            "Description": "Childbirth",
+            "Duration": "1 days",
+            "Last": "283 days ago"
+        },
+        {
+            "Start": "2024-02-09T02:03:26Z",
+            "Stop": "2024-02-09T02:18:26Z",
+            "Description": "Passive immunization (procedure)",
+            "Duration": "1 days",
+            "Last": "241 days ago"
+        },
+        {
+            "Start": "2024-02-09T02:03:26Z",
+            "Stop": "2024-02-09T02:18:26Z",
+            "Description": "Physical examination procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "241 days ago"
+        },
+        {
+            "Start": "2024-02-09T02:03:26Z",
+            "Stop": "2024-02-09T02:18:26Z",
+            "Description": "Depression screening",
+            "Duration": "1 days",
+            "Last": "241 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Standard pregnancy test",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Ultrasound scan for fetal viability",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Blood group typing (procedure)",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Hepatitis B Surface Antigen Measurement",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Human immunodeficiency virus antigen test",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Chlamydia antigen test",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Gonorrhea infection titer test (procedure)",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Syphilis infectious titer test (procedure)",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Urine culture",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Cytopathology procedure, preparation of smear, genital source",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Urine screening test for diabetes",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Hepatitis C antibody, confirmatory test",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Rubella screening",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Measurement of Varicella-zoster virus antibody",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Skin test for tuberculosis, Tine test (procedure)",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Urine protein test",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-08-09T02:03:26Z",
+            "Stop": "2024-08-09T02:18:26Z",
+            "Description": "Physical examination procedure (procedure)",
+            "Duration": "1 days",
+            "Last": "59 days ago"
+        },
+        {
+            "Start": "2024-09-06T02:03:26Z",
+            "Stop": "2024-09-06T02:18:26Z",
+            "Description": "Evaluation of uterine fundal height",
+            "Duration": "1 days",
+            "Last": "31 days ago"
+        },
+        {
+            "Start": "2024-09-06T02:03:26Z",
+            "Stop": "2024-09-06T02:18:26Z",
+            "Description": "Auscultation of the fetal heart",
+            "Duration": "1 days",
+            "Last": "31 days ago"
+        },
+        {
+            "Start": "2024-09-06T02:03:26Z",
+            "Stop": "2024-09-06T02:18:26Z",
+            "Description": "Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure)",
+            "Duration": "1 days",
+            "Last": "31 days ago"
+        }
+    ],
+    "Vital Signs": [
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "162.6 cm"
+        },
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "4 {score}"
+        },
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "48.2 kg"
+        },
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "18.22 kg/m2"
+        },
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "18.42596942614227 %"
+        },
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "78 /min"
+        },
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "162.9 cm"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "1 {score}"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "48.5 kg"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "18.28 kg/m2"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "14.094626486755457 %"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "80 /min"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "14 /min"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "163.1 cm"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "3 {score}"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "50.3 kg"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "18.9 kg/m2"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "17.45851130107442 %"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "99 /min"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "12 /min"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "163.3 cm"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "50.8 kg"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "19.06 kg/m2"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Percentile] Per age and sex",
+            "Value": "16.811661140109653 %"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "99 /min"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        },
+        {
+            "Start": "2019-02-15T05:03:26Z",
+            "Stop": null,
+            "Description": "Body temperature",
+            "Value": "37.21459508178701 Cel"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "163.3 cm"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "54.7 kg"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "20.51 kg/m2"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "93 /min"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "13 /min"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Height",
+            "Value": "163.3 cm"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": null,
+            "Description": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+            "Value": "0 {score}"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": null,
+            "Description": "Body Weight",
+            "Value": "58.3 kg"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": null,
+            "Description": "Body mass index (BMI) [Ratio]",
+            "Value": "21.87 kg/m2"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": null,
+            "Description": "Heart rate",
+            "Value": "79 /min"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": null,
+            "Description": "Respiratory rate",
+            "Value": "15 /min"
+        }
+    ],
+    "Immunizations": [
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2014-11-28T02:03:26Z",
+            "Stop": null,
+            "Description": "meningococcal MCV4P",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2015-12-04T02:03:26Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2016-12-09T02:03:26Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2017-12-15T02:03:26Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "Hep B, adult",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2020-12-18T02:03:26Z",
+            "Stop": null,
+            "Description": "meningococcal MCV4P",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-07-16T02:03:26Z",
+            "Stop": null,
+            "Description": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2021-08-06T02:03:26Z",
+            "Stop": null,
+            "Description": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose",
+            "Duration": null,
+            "Last": "Currently used"
+        },
+        {
+            "Start": "2023-12-22T02:03:26Z",
+            "Stop": null,
+            "Description": "Influenza, seasonal, injectable, preservative free",
+            "Duration": null,
+            "Last": "Currently used"
+        }
+    ]
+}
