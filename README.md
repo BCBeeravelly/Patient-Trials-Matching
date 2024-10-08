@@ -17,11 +17,7 @@ This project is designed to match patient data with clinical trials based on eli
  
  3. **Install required packages**: ```pip install -r requirements.txt```
  
- 4. **Set up WebDriver:**
- 
-	 * Download and install the appropriate WebDriver for your browser (e.g., ChromeDriver for Google Chrome).
-  
-	 * Make sure the WebDriver is in your system's PATH.
+ 4. **Set up WebDriver**
   
 ## Usage
 1. Organize input data:
