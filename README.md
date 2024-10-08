@@ -11,7 +11,8 @@ This project is designed to match patient data with clinical trials based on eli
 - Outputs eligibility results in a structured JSON format. 
 ## Installation 
 
- 1. **Clone the Repository:**
+ 1. **Clone the Repository**
+ 
  2. **Set up a virtual Environment**: ```source env/bin/activate```
  3. **Install required packages**: ```pip install -r requirements.txt```
  4. **Set up WebDriver:**
