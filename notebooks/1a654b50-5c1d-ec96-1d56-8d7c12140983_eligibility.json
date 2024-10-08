@@ -1,0 +1,17 @@
+{
+  "patientId": "1a654b50-5c1d-ec96-1d56-8d7c12140983",
+  "eligibleTrials": [
+    {
+      "trialId": "NCT06576401",
+      "studyTitle": "A Study To Characterize Mass Balance Of [14C] HDM1002 in Chinese Healthy Subjects",
+      "eligibilityCriteriaMet": [
+        "Weight",
+        "Health Status",
+        "Medical History",
+        "Substance Use",
+        "Infectious Disease Status",
+        "Environmental Exposure"
+      ]
+    }
+  ]
+}
